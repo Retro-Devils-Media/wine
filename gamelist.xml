@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Starcraft.sh</path>
+		<name>StarCraft: Battle Chest</name>
+		<desc>Set in the 26th century, the game revolves around three species fighting for dominance in a distant part of the Milky Way galaxy: the Terrans, humans exiled from Earth skilled at adapting to any situation; the Zerg, a race of insectoids in pursuit of genetic perfection obsessed with assimilating other races; and the Protoss, a humanoid species with advanced technology and psionic abilities attempting to preserve their civilization and strict philosophical way of living from the Zerg.
+
+Contents
+StarCraft full game CD
+One unique Authentication key
+StarCraft: Brood War full expansion CD
+StarCraft Game manual
+StarCraft: Brood War Game manual
+Dependencies Chart
+Prima's Official Strategy Guide StarCraft
+Prima's Official Strategy Guide StarCraft: Brood War</desc>
+		<image>./boxart/starcraft-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Blizzard</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Strategy</genre>
+		<playcount>5</playcount>
+		<lastplayed>20211222T002358</lastplayed>
+	</game>
+	<game>
+		<path>./Diablo-2.sh</path>
+		<name>Diablo II + Expansion Set</name>
+		<desc>The story of Diablo II takes place some time after the end of the previous game, Diablo, in the lands of Sanctuary. In Diablo the main body of the story takes place beneath the floors of a cathedral in a small town known as Tristram. It is here that Diablo, the Lord of Terror, is defeated by an unnamed warrior after many previous battles are also won.
+The unnamed warrior that vanquished Diablo drove the demon's soulstone into his forehead, in an attempt to contain the monster's essence within his own body. Later in the canon it is suggested that this is what Diablo intended so that, should he be defeated, he had an "escape plan" in place of dying.
+The unnamed warrior is ill fated from the moment he does this and is gradually corrupted over the course of the next few days by the demon's spirit. Deckard Cain recounts the story to the next band of adventurers that pass through the Rogue Encampment in Diablo II. It is one of these adventurers that appears in the wake of the destruction caused by the now possessed unnamed warrior, and attempts to find out the cause of the evil, starting with the corrupted warrior (known as the Dark Wanderer throughout Diablo II).</desc>
+		<image>./boxart/diablo2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20000629T000000</releasedate>
+		<developer>Blizzard</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<playcount>16</playcount>
+		<lastplayed>20211225T021507</lastplayed>
+	</game>
+	<game>
+		<path>./Warcraft-3.sh</path>
+		<name>Warcraft III: Battle Chest</name>
+		<desc>The Warcraft III Battle Chest is the ultimate collection of the best-selling Blizzard strategy games. This set includes 2002 Game of the Year Warcraft III: The Reign of Chaos, as well as the recently released and critically acclaimed follow-up - Warcraft III Expansion: The Frozen Throne. In addition to all these hours of epic adventure in the world of Azeroth, and limitless online fun on the Battle.net gaming site, the Battle Chest also contains strategy guides from Brady Games for both titles to help players dominate the battlefield. This collection is valued at over $75.00 sold separately, and is perfect for entering the epic war between the races of Azeroth and the demonic Burning Legion.</desc>
+		<image>./boxart/warcraft3-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20030919T000000</releasedate>
+		<developer>Blizzard</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<playcount>7</playcount>
+		<lastplayed>20211225T021216</lastplayed>
+	</game>
+	<game>
+		<path>./Fallout-2.sh</path>
+		<name>Fallout 2</name>
+		<desc>During 2241, Arroyo suffered the worst drought on record. Faced with the calamity, the village elders asked the direct descendant of the Vault Dweller, referred to as the Chosen One, to perform the quest of retrieving a Garden of Eden Creation Kit (GECK) for Arroyo. The GECK is a device that can create thriving communities out of the post-apocalyptic wasteland.[4]
+
+The player, assuming the role of the Chosen One, is given nothing more than the Vault Dweller's jumpsuit, a RobCo PIPBoy 2000 handheld device, a Vault 13 water flask, a spear and some cash to start on his mission.</desc>
+		<image>./boxart/fallout2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19980930T000000</releasedate>
+		<developer>Black Isle Studios</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Fallout-Tactics.sh</path>
+		<name>Fallout Tactics: Brotherhood of Steel</name>
+		<desc>In this gritty and darkly humorous third-person action adventure, players join the courageous Brotherhood of Steel, whose mission is to maintain peace in the grim post-nuclear world of Fallout. Challenged by hordes of ghouls, mutants, and other radioactive nightmares, players utilize a combination of intense combat strategies including melee, ranged weapons and explosives to fulfill their daunting task of defeating the mutant army in hopes of restoring humanity in a nearly unlivable universe. Welcome to the wasteland.</desc>
+		<image>./boxart/fallouttactics-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20010314T000000</releasedate>
+		<developer />
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Role-Playing, Strategy</genre>
+	</game>
+	<game>
+		<path>./games/fallout3.sh</path>
+		<name>fallout3</name>
+		<playcount>26</playcount>
+		<lastplayed>20211230T042641</lastplayed>
+	</game>
+	<game>
+		<path>./Fallout.sh</path>
+		<name>Fallout</name>
+		<desc>Gameplay in Fallout consists of traveling around the game world, visiting locations and interacting with the local inhabitants, and is typically in real-time. Occasionally, inhabitants will be immersed in dilemmas which the player may choose to solve in order to acquire karma and experience points. Alternately, the player may choose to ignore requests for help, in which case he or she has the option of acting on behalf of an opposing faction, or purely in self-interest. Experience points may still be rewarded if the player acts for an opposing interest or in self-interest. Ultimately, players will encounter hostile opponents (if such encounters are not avoided using stealth or diplomacy), in which case they and the player will engage in combat.</desc>
+		<image>./boxart/fallout-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19970930T000000</releasedate>
+		<developer>Black Isle Studio</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>22</playcount>
+		<lastplayed>20211230T182822</lastplayed>
+	</game>
+	<game>
+		<path>./Command-&-Conquer-TS.sh</path>
+		<name>Command &amp; Conquer: Tiberian Sun - Firestorm</name>
+		<desc>Firestorm is the official Expansion pack for Command &amp; Conquer: Tiberian Sun and was released in March 2000 by Westwood Studios. Whether or not the information about the death of NOD leader Kane is true, it appears that a new menace is developing; this force will require an alliance between the Global Defense Initiative and the Brotherhood of NOD. There are 18 new single-player missions and 15 multiplayer battles to keep you busy, and more than 30 minutes of live-action video to move the story along. Fight thousands of opponents for control of 30 territories in online play.</desc>
+		<image>./boxart/cncts-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20000308T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Westwood Studios, Inc.</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./wine-apps/Winetricks.sh</path>
+		<name>Winetricks</name>
+		<playcount>4</playcount>
+		<lastplayed>20211231T232602</lastplayed>
+	</game>
+	<game>
+		<path>./Age-Of-Empires-2.sh</path>
+		<name>Age of Empires II: The Age of Kings</name>
+		<desc>The Age of Kings focuses on building towns, gathering resources, creating armies, and destroying enemy units and buildings. Players conquer rival towns and empires as they advance one of 13 civilizations through four "Ages": the Dark Age, the Feudal Age, the Castle Age (The Middle Ages), and the Imperial Age, reminiscent of the Renaissance—a 1000 year timeframe.</desc>
+		<image>./boxart/aoe2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Strategy</genre>
+		<playcount>8</playcount>
+		<lastplayed>20220101T234451</lastplayed>
+	</game>
+	<game>
+		<path>./Age-Of-Empires-2-The-Conquerors.sh</path>
+		<name>Age of Empires II: The Conquerors Expansion</name>
+		<desc>Continue your empire building and conquering with this expansion pack to Age of Empires II. Five new civilizations are introduced, including the Aztecs, Huns, Koreans, Mayans, and Spanish, each offering new units and unique technologies to master. There are 26 new technologies in total; seven are general economic and military upgrades, while one or two are civilization specific. All 18 civilizations also feature distinct starting bonuses in areas such as buildings, combat, advancements, and upgrades. Other additions include four maps based on real-world geographical locations, nine fictional maps, and three new game types: King of the Hill, Wonder Race, and Defend the Wonder.
+
+The 11 new units consist of the following: Conquistadors, Eagle Warriors, Halberdiers, Hussars, Jaguar Warriors, Missionaries, Petards, Plumed Archers, Tarkans, Turtle Ships, and War Wagons. Four campaigns let you recreate historical battles as Attila the Hun, El Cid, and Montezuma. Improved multiplayer chatting includes color-coded text and specific player targeting for messages. Another new option, friend or foe colors, offers a simpler scheme for differentiating between allies and enemies. For players in single missions, the chat interface can now be used to send commands to allied players under computer control. The full version of Age of Empires II is required to play the new content from the expansion.
+
+Age of Empires II: The Conquerors Expansion is the official add-on to the award-winning, best-selling real-time strategy game Age of Empires II: The Age of Kings. 
+
+Focusing on legendary leaders, The Conquerors will challenge veterans and novices to wage war on an epic scale with all-new civilizations, unique units and technologies, and campaigns based on infamous conquerors such as Attila the Hun, El Cid and Montezuma.</desc>
+		<image>./boxart/aoe2e-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20000825T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Strategy</genre>
+		<playcount>14</playcount>
+		<lastplayed>20220101T235438</lastplayed>
+	</game>
+	<game>
+		<path>./wine-apps/Wine Config.sh</path>
+		<name>Wine Config</name>
+		<playcount>15</playcount>
+		<lastplayed>20220101T234355</lastplayed>
+	</game>
+	<game>
+		<path>./Age-Of-Empires.sh</path>
+		<name>Age of Empires</name>
+		<desc>Control your tribe with the mouse. Make them build houses, docks, farms, and temples. Advance your civilization through time by learning new skills. The game allows for the player to advance through the ages: stone age, tool age, bronze age. If the player would rather get away from the historical aspect, the game offers a random terrain generator and a custom scenario builder.</desc>
+		<image>./boxart/aoe-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19971015T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Strategy</genre>
+		<playcount>42</playcount>
+		<lastplayed>20220107T000037</lastplayed>
+	</game>
+	<game>
+		<path>./Age-Of-Empires-The-Rise-Of-Rome.sh</path>
+		<name>Age of Empires: The Rise of Rome</name>
+		<desc>The Rise of Rome features a new Roman architectural design, shared by all four new civilizations, the Romans, Palmyrans, Macedonians and Carthaginians.
+
+Four new researchable technologies have been added. Additional new features include five new units, four new random map types, and a larger map size option. Pathfinding for all units is also considerably improved.
+
+Gameplay-wise, the expansion introduced numerous interface tweaks, such as unit queuing, the ability to double click a single unit and highlight others of the same unit-type, balancing damage done by catapults, and the option to increase the population limit beyond 50 (only in multiplayer games).
+
+By installing the 1.0a update, it is also possible to use the period key to cycle through idle villagers.
+
+New music was composed for this expansion, which replaced the original score entirely.</desc>
+		<image>./boxart/aoee-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19981031T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Strategy</genre>
+		<playcount>30</playcount>
+		<lastplayed>20220106T235836</lastplayed>
+	</game>
+	<game>
+		<path>./games/mugen.sh</path>
+		<name>MUGEN</name>
+		<desc>M.U.G.E.N (also known simply as MUGEN) is a freeware 2D fighting game engine designed by Elecbyte. Content is created by the community, and thousands of fighters, both original and from popular fiction, have been created. It is written in C which originally used the Allegro library. The latest versions of the engine now use the SDL library.
+
+Elecbyte released the customizable fighting game M.U.G.E.N in 1999. The engine was originally released on July 17, 1999. Beta versions of it were made to work on MS-DOS and Linux platforms (Windows platform was never officially released until the release of 1.0 RC1 version, previous Windows unfinished versions were "leaked" since 2003), distributed through their website. The engine allows users to insert created characters, background stages, and other game objects through interpreted text files, graphics, and sound compilations to create a functioning fighting game similar to commercial games. While the engine is set up primarily for fighting game development, several other book types have been developed using it, including shooter and platform style games. Officially, Elecbyte claims to have forgotten what the acronym M.U.G.E.N stood for, but the readme documentation states that its meaning referred to the days when the engine was meant to emulate shooting games as opposed to fighting games. The meaning of "mugen" (無限) in Japanese, "unlimited" or "infinite", may have influenced the naming. M.U.G.E.N later expanded into a wide variety of teams and communities such as Mugen Fighters Guild, Mugen Infantry and Mugen Free For All. M.U.G.E.N. also gained more mainstream press with the creation of the Twitch.tv live stream called Salty Bet, where viewers can bet with fake money on 1 Vs. 1 CPU matches played using the engine.</desc>
+		<image>./boxart/mugen-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19990727T000000</releasedate>
+		<developer>Elecbyte</developer>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>5</playcount>
+		<lastplayed>20220106T234532</lastplayed>
+	</game>
+	<game>
+		<path>./games/1test.sh</path>
+		<name>1test</name>
+		<playcount>2</playcount>
+		<lastplayed>20220107T233752</lastplayed>
+	</game>
+	<game>
+		<path>./games/cncg.sh</path>
+		<name>Command &amp; Conquer: Generals</name>
+		<desc>Generals takes place in the near future, with players given a choice of three factions to play. In Generals, the United States and China are the world's two superpowers, and are the targets of the Global Liberation Army or also known as the GLA, a large, well-organized terrorist organization, fighting as a fanatical irregular force. The United States and China are depicted as allies in the series, and frequently co-operate with each other throughout the storyline against the Global Liberation Army, which is depicted as an omnipresent, borderless organization with unclear goals beyond opposition to and expulsion of both China and the United States. The three factions are thus engaged in a war similar to that of the real-life War on Terror.</desc>
+		<image>./boxart/cncg-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20030210T000000</releasedate>
+		<developer>EA</developer>
+		<publisher>EA Games</publisher>
+		<genre>Strategy</genre>
+		<players>8</players>
+		<playcount>28</playcount>
+		<lastplayed>20220107T233720</lastplayed>
+	</game>
+	<game>
+		<path>./wine-apps/Wine Desktop.sh</path>
+		<name>Wine Desktop</name>
+		<playcount>6</playcount>
+		<lastplayed>20220107T233820</lastplayed>
+	</game>
+	<game>
+		<path>./wine-apps/Wine Explorer.sh</path>
+		<name>Wine Explorer</name>
+		<playcount>52</playcount>
+		<lastplayed>20220107T234228</lastplayed>
+	</game>
+	<game>
+		<path>./Cuphead.sh</path>
+		<name>Cuphead</name>
+		<desc>Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings. 
+
+Play as Cuphead or Mugman (in single player or local co-op) as you traverse strange worlds, acquire new weapons, learn powerful super moves, and discover hidden secrets while you try to pay your debt back to the devil!</desc>
+		<image>./boxart/cuphead-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20170929T000000</releasedate>
+		<developer>Studio MDHR Entertainment Inc.</developer>
+		<publisher>Studio MDHR</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20220108T000910</lastplayed>
+	</game>
+</gameList>
