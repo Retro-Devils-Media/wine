@@ -115,7 +115,7 @@ The player, assuming the role of the Chosen One, is given nothing more than the 
 		<lastplayed>20211230T182822</lastplayed>
 	</game>
 	<game>
-		<path>./Command-&-Conquer-TS.sh</path>
+		<path>./Command-And-Conquer-TS.sh</path>
 		<name>Command &amp; Conquer: Tiberian Sun - Firestorm</name>
 		<desc>Firestorm is the official Expansion pack for Command &amp; Conquer: Tiberian Sun and was released in March 2000 by Westwood Studios. Whether or not the information about the death of NOD leader Kane is true, it appears that a new menace is developing; this force will require an alliance between the Global Defense Initiative and the Brotherhood of NOD. There are 18 new single-player missions and 15 multiplayer battles to keep you busy, and more than 30 minutes of live-action video to move the story along. Fight thousands of opponents for control of 30 territories in online play.</desc>
 		<image>./boxart/cncts-image.jpg</image>
@@ -247,4 +247,4 @@ Play as Cuphead or Mugman (in single player or local co-op) as you traverse stra
 		<genre>Shooter</genre>
 		<players>2</players>
 	</game>
-s</gameList>
+</gameList>
