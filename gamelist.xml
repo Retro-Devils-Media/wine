@@ -39,6 +39,9 @@ Dependencies Chart
 Prima's Official Strategy Guide StarCraft
 Prima's Official Strategy Guide StarCraft: Brood War</desc>
 		<image>./boxart/starcraft-image.jpg</image>
+		<video>./snap/Starcraft.mp4</video>
+		<marquee>./boxart/Starcraft-marquee.png</marquee>
+		<screenshot>./boxart/Starcraft-screenshot.p</screenshot>
 		<rating>0</rating>
 		<releasedate>19980101T000000</releasedate>
 		<developer>Blizzard</developer>
