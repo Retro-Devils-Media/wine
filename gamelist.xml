@@ -243,6 +243,9 @@ Play as Cuphead or Mugman (in single player or local co-op) as you traverse stra
 		<name>The House Of The Dead 2</name>
 		<desc>The House of the Dead 2 is a rail shooter light gun game. It incorporates a branching path system that allows players to take a variety of different routes leading to the same point in the game's story.</desc>
 		<image>./boxart/THOTD2-image.jpg</image>
+		<video>./snap/THOTD2.mp4</video>
+		<marquee>./boxart/THOTD2-marquee.png</marquee>
+		<screenshot>./boxart/THOTD2-screenshot.p</screenshot>
 		<rating>0</rating>
 		<releasedate>19981101T000000</releasedate>
 		<developer>WOW Entertainment</developer>
