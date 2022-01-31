@@ -41,7 +41,7 @@ Prima's Official Strategy Guide StarCraft: Brood War</desc>
 		<image>./boxart/starcraft-image.jpg</image>
 		<video>./snap/Starcraft.mp4</video>
 		<marquee>./boxart/Starcraft-marquee.png</marquee>
-		<screenshot>./boxart/Starcraft-screenshot.p</screenshot>
+		<screenshot>./boxart/Starcraft-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19980101T000000</releasedate>
 		<developer>Blizzard</developer>
@@ -75,7 +75,7 @@ Warcraft III The Frozen Throne: WGMNX2-EGT7-8KD9EV-H6ZR-ZPH7PZ</desc>
 		<image>./boxart/warcraft3-image.jpg</image>
 		<video>./snap/Warcraft-3.mp4</video>
 		<marquee>./boxart/Warcraft-3-marquee.png</marquee>
-		<screenshot>./boxart/Warcraft-3-screenshot.p</screenshot>
+		<screenshot>./boxart/Warcraft-3-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>20030919T000000</releasedate>
 		<developer>Blizzard</developer>
@@ -236,7 +236,7 @@ Play as Cuphead or Mugman (in single player or local co-op) as you traverse stra
 		<video>./snap/THOTD.mp4</video>
 		<marquee>./boxart/THOTD-marquee.png</marquee>
 		<image>./boxart/THOTD-image.jpg</image>
-		<screenshot>./boxart/THOTD-screenshot.p</screenshot>
+		<screenshot>./boxart/THOTD-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19960101T000000</releasedate>
 		<developer>Sega</developer>
@@ -251,7 +251,7 @@ Play as Cuphead or Mugman (in single player or local co-op) as you traverse stra
 		<image>./boxart/THOTD2-image.jpg</image>
 		<video>./snap/THOTD2.mp4</video>
 		<marquee>./boxart/THOTD2-marquee.png</marquee>
-		<screenshot>./boxart/THOTD2-screenshot.p</screenshot>
+		<screenshot>./boxart/THOTD2-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19981101T000000</releasedate>
 		<developer>WOW Entertainment</developer>
