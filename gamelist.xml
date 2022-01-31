@@ -1,6 +1,30 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./wine-apps/Winetricks.sh</path>
+		<name>Winetricks</name>
+		<playcount>4</playcount>
+		<lastplayed>20211231T232602</lastplayed>
+	</game>
+	<game>
+		<path>./wine-apps/Wine Config.sh</path>
+		<name>Wine Config</name>
+		<playcount>15</playcount>
+		<lastplayed>20220101T234355</lastplayed>
+	</game>
+	<game>
+		<path>./wine-apps/Wine Desktop.sh</path>
+		<name>Wine Desktop</name>
+		<playcount>6</playcount>
+		<lastplayed>20220107T233820</lastplayed>
+	</game>
+	<game>
+		<path>./wine-apps/Wine Explorer.sh</path>
+		<name>Wine Explorer</name>
+		<playcount>52</playcount>
+		<lastplayed>20220107T234228</lastplayed>
+	</game>
+	<game>
 		<path>./Starcraft.sh</path>
 		<name>StarCraft: Battle Chest</name>
 		<desc>Set in the 26th century, the game revolves around three species fighting for dominance in a distant part of the Milky Way galaxy: the Terrans, humans exiled from Earth skilled at adapting to any situation; the Zerg, a race of insectoids in pursuit of genetic perfection obsessed with assimilating other races; and the Protoss, a humanoid species with advanced technology and psionic abilities attempting to preserve their civilization and strict philosophical way of living from the Zerg.
@@ -103,12 +127,6 @@ The player, assuming the role of the Chosen One, is given nothing more than the 
 		<players>4</players>
 	</game>
 	<game>
-		<path>./wine-apps/Winetricks.sh</path>
-		<name>Winetricks</name>
-		<playcount>4</playcount>
-		<lastplayed>20211231T232602</lastplayed>
-	</game>
-	<game>
 		<path>./Age-Of-Empires-2.sh</path>
 		<name>Age of Empires II: The Age of Kings</name>
 		<desc>The Age of Kings focuses on building towns, gathering resources, creating armies, and destroying enemy units and buildings. Players conquer rival towns and empires as they advance one of 13 civilizations through four "Ages": the Dark Age, the Feudal Age, the Castle Age (The Middle Ages), and the Imperial Age, reminiscent of the Renaissance—a 1000 year timeframe.</desc>
@@ -139,12 +157,6 @@ Focusing on legendary leaders, The Conquerors will challenge veterans and novice
 		<genre>Strategy</genre>
 		<playcount>14</playcount>
 		<lastplayed>20220101T235438</lastplayed>
-	</game>
-	<game>
-		<path>./wine-apps/Wine Config.sh</path>
-		<name>Wine Config</name>
-		<playcount>15</playcount>
-		<lastplayed>20220101T234355</lastplayed>
 	</game>
 	<game>
 		<path>./Age-Of-Empires.sh</path>
@@ -181,7 +193,7 @@ New music was composed for this expansion, which replaced the original score ent
 		<lastplayed>20220106T235836</lastplayed>
 	</game>
 	<game>
-		<path>./games/mugen.sh</path>
+		<path>./games/Mugen/mugen.exe</path>
 		<name>MUGEN</name>
 		<desc>M.U.G.E.N (also known simply as MUGEN) is a freeware 2D fighting game engine designed by Elecbyte. Content is created by the community, and thousands of fighters, both original and from popular fiction, have been created. It is written in C which originally used the Allegro library. The latest versions of the engine now use the SDL library.
 
@@ -194,18 +206,6 @@ Elecbyte released the customizable fighting game M.U.G.E.N in 1999. The engine w
 		<players>2</players>
 		<playcount>5</playcount>
 		<lastplayed>20220106T234532</lastplayed>
-	</game>
-	<game>
-		<path>./wine-apps/Wine Desktop.sh</path>
-		<name>Wine Desktop</name>
-		<playcount>6</playcount>
-		<lastplayed>20220107T233820</lastplayed>
-	</game>
-	<game>
-		<path>./wine-apps/Wine Explorer.sh</path>
-		<name>Wine Explorer</name>
-		<playcount>52</playcount>
-		<lastplayed>20220107T234228</lastplayed>
 	</game>
 	<game>
 		<path>./Cuphead.sh</path>
@@ -223,4 +223,28 @@ Play as Cuphead or Mugman (in single player or local co-op) as you traverse stra
 		<playcount>4</playcount>
 		<lastplayed>20220108T000910</lastplayed>
 	</game>
-</gameList>
+	<game>
+		<path>./The-House-Of-The-Dead.sh</path>
+		<name>The House of the Dead</name>
+		<desc>The House of the Dead is a first-person, light gun arcade game. Players assume the role of agents Thomas Rogan and "G" in their efforts to repel the dangerous, inhumane experiments of Dr. Curien, a madman.</desc>
+		<image>./boxart/THOTD-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./The-House-Of-The-Dead-2.sh</path>
+		<name>The House Of The Dead 2</name>
+		<desc>The House of the Dead 2 is a rail shooter light gun game. It incorporates a branching path system that allows players to take a variety of different routes leading to the same point in the game's story.</desc>
+		<image>./boxart/THOTD2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19981101T000000</releasedate>
+		<developer>WOW Entertainment</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+s</gameList>
