@@ -70,6 +70,9 @@ The unnamed warrior is ill fated from the moment he does this and is gradually c
 Warcraft III Reign of Chaos:         N9UBI4-GRQS-TDV29O-QF8H-7SMKLM
 Warcraft III The Frozen Throne: WGMNX2-EGT7-8KD9EV-H6ZR-ZPH7PZ</desc>
 		<image>./boxart/warcraft3-image.jpg</image>
+		<video>./snap/Warcraft-3.mp4</video>
+		<marquee>./boxart/Warcraft-3-marquee.png</marquee>
+		<screenshot>./boxart/Warcraft-3-screenshot.p</screenshot>
 		<rating>0</rating>
 		<releasedate>20030919T000000</releasedate>
 		<developer>Blizzard</developer>
