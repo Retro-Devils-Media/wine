@@ -227,7 +227,10 @@ Play as Cuphead or Mugman (in single player or local co-op) as you traverse stra
 		<path>./The-House-Of-The-Dead.sh</path>
 		<name>The House of the Dead</name>
 		<desc>The House of the Dead is a first-person, light gun arcade game. Players assume the role of agents Thomas Rogan and "G" in their efforts to repel the dangerous, inhumane experiments of Dr. Curien, a madman.</desc>
+		<video>./snap/THOTD.mp4</video>
+		<marquee>./boxart/THOTD-marquee.png</marquee>
 		<image>./boxart/THOTD-image.jpg</image>
+		<screenshot>./boxart/THOTD-screenshot.p</screenshot>
 		<rating>0</rating>
 		<releasedate>19960101T000000</releasedate>
 		<developer>Sega</developer>
