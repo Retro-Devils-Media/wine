@@ -90,6 +90,9 @@ Warcraft III The Frozen Throne: WGMNX2-EGT7-8KD9EV-H6ZR-ZPH7PZ</desc>
 
 The player, assuming the role of the Chosen One, is given nothing more than the Vault Dweller's jumpsuit, a RobCo PIPBoy 2000 handheld device, a Vault 13 water flask, a spear and some cash to start on his mission.</desc>
 		<image>./boxart/fallout2-image.jpg</image>
+		<video>./snap/Fallout-2.mp4</video>
+		<marquee>./boxart/Fallout-2-marquee.png</marquee>
+		<screenshot>./boxart/Fallout-2-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19980930T000000</releasedate>
 		<developer>Black Isle Studios</developer>
@@ -112,6 +115,9 @@ The player, assuming the role of the Chosen One, is given nothing more than the 
 		<name>Fallout</name>
 		<desc>Gameplay in Fallout consists of traveling around the game world, visiting locations and interacting with the local inhabitants, and is typically in real-time. Occasionally, inhabitants will be immersed in dilemmas which the player may choose to solve in order to acquire karma and experience points. Alternately, the player may choose to ignore requests for help, in which case he or she has the option of acting on behalf of an opposing faction, or purely in self-interest. Experience points may still be rewarded if the player acts for an opposing interest or in self-interest. Ultimately, players will encounter hostile opponents (if such encounters are not avoided using stealth or diplomacy), in which case they and the player will engage in combat.</desc>
 		<image>./boxart/fallout-image.jpg</image>
+		<video>./snap/Fallout.mp4</video>
+		<marquee>./boxart/Fallout-marquee.png</marquee>
+		<screenshot>./boxart/Fallout-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19970930T000000</releasedate>
 		<developer>Black Isle Studio</developer>
@@ -169,6 +175,9 @@ Focusing on legendary leaders, The Conquerors will challenge veterans and novice
 		<name>Age of Empires</name>
 		<desc>Control your tribe with the mouse. Make them build houses, docks, farms, and temples. Advance your civilization through time by learning new skills. The game allows for the player to advance through the ages: stone age, tool age, bronze age. If the player would rather get away from the historical aspect, the game offers a random terrain generator and a custom scenario builder.</desc>
 		<image>./boxart/aoe-image.jpg</image>
+		<video>./snap/Age-Of-Empires.mp4</video>
+		<marquee>./boxart/Age-Of-Empires-marquee.png</marquee>
+		<screenshot>./boxart/Age-Of-Empires-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19971015T000000</releasedate>
 		<developer>Ensemble Studios</developer>
@@ -190,6 +199,9 @@ By installing the 1.0a update, it is also possible to use the period key to cycl
 
 New music was composed for this expansion, which replaced the original score entirely.</desc>
 		<image>./boxart/aoee-image.jpg</image>
+		<video>./snap/Age-Of-Empires-The-Rise-Of-Rome.mp4</video>
+		<marquee>./boxart/Age-Of-Empires-marquee.png</marquee>
+		<screenshot>./boxart/Age-Of-Empires-The-Rise-Of-Rome-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19981031T000000</releasedate>
 		<developer>Ensemble Studios</developer>
