@@ -13,16 +13,16 @@
 		<lastplayed>20220101T234355</lastplayed>
 	</game>
 	<game>
-		<path>./wine-apps/Wine Desktop.sh</path>
-		<name>Wine Desktop</name>
-		<playcount>6</playcount>
-		<lastplayed>20220107T233820</lastplayed>
-	</game>
-	<game>
 		<path>./wine-apps/Wine Explorer.sh</path>
 		<name>Wine Explorer</name>
-		<playcount>52</playcount>
-		<lastplayed>20220107T234228</lastplayed>
+		<playcount>55</playcount>
+		<lastplayed>20220201T013607</lastplayed>
+	</game>
+	<game>
+		<path>./wine-apps/Wine Desktop.sh</path>
+		<name>Wine Desktop</name>
+		<playcount>7</playcount>
+		<lastplayed>20220201T020051</lastplayed>
 	</game>
 	<game>
 		<path>./Starcraft.sh</path>
@@ -281,6 +281,43 @@ Play as Cuphead or Mugman (in single player or local co-op) as you traverse stra
 		<developer>WOW Entertainment</developer>
 		<publisher>Sega</publisher>
 		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Star-Wars-Battlefront.sh</path>
+		<name>Star Wars: Battlefront</name>
+		<desc>For the first time in gaming history, after countless games depicting various aspects of the rich Star Wars universe (including some we never wanted to see), players have the chance to step into the boots of the average soldier in the wars that raged across the galaxy. Gameplay is based on the successful standards set by Battlefield 1942, but combat in Battlefront is even more massive and heated, vehicles are more predominant and the familiar starships are also included.
+
+There are three different game modes to play: Historical Campaign (featuring a series of "historical" battles from the Star Wars mythos), Conquest (in which players vie for dominance of individual planets) and, of course, Instant Action. The game puts two pairs of factions at war: Republic vs Separatists and Rebel Alliance vs Galactic Empire. Each faction has four standard unit types (soldier, heavy weapons trooper, scout and pilot) plus a fifth, special unit which differs radically for each side. Famous Jedi and Sith are included as NPCs only in selected battles. Finally, the game offers almost all of the vehicles seen in the movies for players to fly, drive or hover and prevail.</desc>
+		<image>./boxart/Star-Wars-Battlefront-image.jpg</image>
+		<video>./snap/Star-Wars-Battlefront.mp4</video>
+		<marquee>./boxart/Star-Wars-Battlefront-marquee.png</marquee>
+		<screenshot>./boxart/Star-Wars-Battlefront-screenshot.png</screenshot>
+		<rating>0</rating>
+		<releasedate>20040921T000000</releasedate>
+		<developer>Pandemic Studios</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Action, Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220201T010015</lastplayed>
+	</game>
+	<game>
+		<path>./TMNT.sh</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Prepare for ninja kick-butt fighting as you face the Shredder and his vile pack of Foot Ninjas!
+
+-Team up in the Story Mode for a single or 2-player co-operative game
+-Kick some ninja-butt with cool combos and special attacks
+-Go head-to-head in the VS Mode</desc>
+		<image>./booxart/TMNT-image.jpg</image>
+		<video>./snap/TMNT.mp4</video>
+		<marquee>./boxart/TMNT-marquee.png</marquee>
+		<screenshot>./boxart/TMNT-screenshot.png</screenshot>
+		<rating>0</rating>
+		<releasedate>20031125T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
 		<players>2</players>
 	</game>
 </gameList>
