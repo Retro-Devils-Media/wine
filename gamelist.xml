@@ -209,7 +209,7 @@ By installing the 1.0a update, it is also possible to use the period key to cycl
 New music was composed for this expansion, which replaced the original score entirely.</desc>
 		<image>./boxart/aoee-image.jpg</image>
 		<video>./snap/Age-Of-Empires-The-Rise-Of-Rome.mp4</video>
-		<marquee>./boxart/Age-Of-Empires-marquee.png</marquee>
+		<marquee>./boxart/Age-Of-Empires-The-Rise-Of-Rome-marquee.png</marquee>
 		<screenshot>./boxart/Age-Of-Empires-The-Rise-Of-Rome-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19981031T000000</releasedate>
@@ -241,6 +241,9 @@ Elecbyte released the customizable fighting game M.U.G.E.N in 1999. The engine w
 
 Play as Cuphead or Mugman (in single player or local co-op) as you traverse strange worlds, acquire new weapons, learn powerful super moves, and discover hidden secrets while you try to pay your debt back to the devil!</desc>
 		<image>./boxart/cuphead-image.jpg</image>
+		<video>./snap/Cuphead.mp4</video>
+		<marquee>./boxart/Cuphead-marquee.png</marquee>
+		<screenshot>./boxart/Cuphead-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>20170929T000000</releasedate>
 		<developer>Studio MDHR Entertainment Inc.</developer>
@@ -254,9 +257,9 @@ Play as Cuphead or Mugman (in single player or local co-op) as you traverse stra
 		<path>./The-House-Of-The-Dead.sh</path>
 		<name>The House of the Dead</name>
 		<desc>The House of the Dead is a first-person, light gun arcade game. Players assume the role of agents Thomas Rogan and "G" in their efforts to repel the dangerous, inhumane experiments of Dr. Curien, a madman.</desc>
+		<image>./boxart/THOTD-image.jpg</image>
 		<video>./snap/THOTD.mp4</video>
 		<marquee>./boxart/THOTD-marquee.png</marquee>
-		<image>./boxart/THOTD-image.jpg</image>
 		<screenshot>./boxart/THOTD-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19960101T000000</releasedate>
