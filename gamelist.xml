@@ -104,6 +104,9 @@ The player, assuming the role of the Chosen One, is given nothing more than the 
 		<name>Fallout Tactics: Brotherhood of Steel</name>
 		<desc>In this gritty and darkly humorous third-person action adventure, players join the courageous Brotherhood of Steel, whose mission is to maintain peace in the grim post-nuclear world of Fallout. Challenged by hordes of ghouls, mutants, and other radioactive nightmares, players utilize a combination of intense combat strategies including melee, ranged weapons and explosives to fulfill their daunting task of defeating the mutant army in hopes of restoring humanity in a nearly unlivable universe. Welcome to the wasteland.</desc>
 		<image>./boxart/fallouttactics-image.jpg</image>
+		<video>./snap/Fallout-Tactics.mp4</video>
+		<marquee>./boxart/Fallout-Tactics-marquee.png</marquee>
+		<screenshot>./boxart/Fallout-Tactics-screenshot.png</screenshot>
 		<rating>0</rating>
 		<releasedate>20010314T000000</releasedate>
 		<developer />
