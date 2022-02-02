@@ -13,16 +13,16 @@
 		<lastplayed>20220101T234355</lastplayed>
 	</game>
 	<game>
-		<path>./wine-apps/Wine Explorer.sh</path>
-		<name>Wine Explorer</name>
-		<playcount>55</playcount>
-		<lastplayed>20220201T013607</lastplayed>
-	</game>
-	<game>
 		<path>./wine-apps/Wine Desktop.sh</path>
 		<name>Wine Desktop</name>
 		<playcount>7</playcount>
 		<lastplayed>20220201T020051</lastplayed>
+	</game>
+	<game>
+		<path>./wine-apps/Wine Explorer.sh</path>
+		<name>Wine Explorer</name>
+		<playcount>56</playcount>
+		<lastplayed>20220201T174718</lastplayed>
 	</game>
 	<game>
 		<path>./Starcraft.sh</path>
@@ -309,7 +309,7 @@ There are three different game modes to play: Historical Campaign (featuring a s
 -Team up in the Story Mode for a single or 2-player co-operative game
 -Kick some ninja-butt with cool combos and special attacks
 -Go head-to-head in the VS Mode</desc>
-		<image>./booxart/TMNT-image.jpg</image>
+		<image>./boxart/TMNT-image.png</image>
 		<video>./snap/TMNT.mp4</video>
 		<marquee>./boxart/TMNT-marquee.png</marquee>
 		<screenshot>./boxart/TMNT-screenshot.png</screenshot>
@@ -319,5 +319,22 @@ There are three different game modes to play: Historical Campaign (featuring a s
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./Unreal-Anthology.sh</path>
+		<name>Unreal Anthology</name>
+		<desc>Unreal Anthology contains the original Unreal with the Return to Na Pali expansion pack , Unreal Tournament GOTY edition, Unreal II, and UT2004 Editors Choice. From the ruthless artificial intelligence of the original UNREAL, the death gladiator chaos of UNREAL TOURNAMENT and beyond, the Unreal franchise is the king-of-the-hill in multiplayer carnage. Using the most advanced 3D engines ever created, mind bending worlds of mayhem and destruction await. Defining the first person shooter genre for the last decade, UNREAL has set the standard for the worlds ultimate multi-player experience. The entire smorgasbord of frag-dealing weaponry from Unreal Tournament returns for the experienced player to wield masterfully against new contestants.</desc>
+		<image>./boxart/Unreal-Anthology-image.jpg</image>
+		<video>./snap/Unreal-Anthology.mp4</video>
+		<marquee>./boxart/Unreal-Anthology-marquee.png</marquee>
+		<screenshot>./boxart/Unreal-Anthology-screenshot.png</screenshot>
+		<rating>0</rating>
+		<releasedate>20061031T000000</releasedate>
+		<developer>Epic Games</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Shooter</genre>
+		<players>8</players>
+		<playcount>46</playcount>
+		<lastplayed>20220201T195655</lastplayed>
 	</game>
 </gameList>
