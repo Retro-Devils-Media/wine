@@ -337,4 +337,23 @@ There are three different game modes to play: Historical Campaign (featuring a s
 		<playcount>46</playcount>
 		<lastplayed>20220201T195655</lastplayed>
 	</game>
+	<game>
+		<path>./Hydro-Thunder.sh</path>
+		<name>Hydro Thunder</name>
+		<desc>Port of Midway's arcade boat-racer. The premise is non-existent, you simply rev up the engines and go on 13 water courses set in Antarctica, the far east, the Greek isles, etc. on different types of futuristic boats. Races use the usual arcade checkpoint system and scattered across the courses you'll find an assortment of power-ups and upgrades like nitro boosters.
+
+Graphics are entirely 3D with reflective water effects and realistic bouncing and bucking in the boats. Multiplayer competitions are supported for 2 players on the PlayStation version.</desc>
+		<image>./boxart/Hydro-Thunder-image.jpg</image>
+		<video>./snap/Hydro-Thunder.mp4</video>
+		<marquee>./boxart/Hydro-Thunder-marquee.png</marquee>
+		<screenshot>./boxart/Hydro-Thunder-screenshot.png</screenshot>
+		<rating>0</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20220201T225849</lastplayed>
+	</game>
 </gameList>
