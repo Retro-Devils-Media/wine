@@ -7,22 +7,22 @@
 		<lastplayed>20211231T232602</lastplayed>
 	</game>
 	<game>
-		<path>./wine-apps/Wine Config.sh</path>
-		<name>Wine Config</name>
-		<playcount>15</playcount>
-		<lastplayed>20220101T234355</lastplayed>
-	</game>
-	<game>
 		<path>./wine-apps/Wine Desktop.sh</path>
 		<name>Wine Desktop</name>
 		<playcount>7</playcount>
 		<lastplayed>20220201T020051</lastplayed>
 	</game>
 	<game>
+		<path>./wine-apps/Wine Config.sh</path>
+		<name>Wine Config</name>
+		<playcount>16</playcount>
+		<lastplayed>20220202T122525</lastplayed>
+	</game>
+	<game>
 		<path>./wine-apps/Wine Explorer.sh</path>
 		<name>Wine Explorer</name>
-		<playcount>56</playcount>
-		<lastplayed>20220201T174718</lastplayed>
+		<playcount>65</playcount>
+		<lastplayed>20220202T211027</lastplayed>
 	</game>
 	<game>
 		<path>./Starcraft.sh</path>
@@ -178,22 +178,6 @@ Focusing on legendary leaders, The Conquerors will challenge veterans and novice
 		<genre>Strategy</genre>
 		<playcount>14</playcount>
 		<lastplayed>20220101T235438</lastplayed>
-	</game>
-	<game>
-		<path>./Age-Of-Empires.sh</path>
-		<name>Age of Empires</name>
-		<desc>Control your tribe with the mouse. Make them build houses, docks, farms, and temples. Advance your civilization through time by learning new skills. The game allows for the player to advance through the ages: stone age, tool age, bronze age. If the player would rather get away from the historical aspect, the game offers a random terrain generator and a custom scenario builder.</desc>
-		<image>./boxart/aoe-image.jpg</image>
-		<video>./snap/Age-Of-Empires.mp4</video>
-		<marquee>./boxart/Age-Of-Empires-marquee.png</marquee>
-		<screenshot>./boxart/Age-Of-Empires-screenshot.png</screenshot>
-		<rating>0</rating>
-		<releasedate>19971015T000000</releasedate>
-		<developer>Ensemble Studios</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Strategy</genre>
-		<playcount>42</playcount>
-		<lastplayed>20220107T000037</lastplayed>
 	</game>
 	<game>
 		<path>./Age-Of-Empires-The-Rise-Of-Rome.sh</path>
@@ -355,5 +339,120 @@ Graphics are entirely 3D with reflective water effects and realistic bouncing an
 		<players>2</players>
 		<playcount>3</playcount>
 		<lastplayed>20220201T225849</lastplayed>
+	</game>
+	<game>
+		<path>./Pool-Of-Radiance-Ruins-Of-Myth-Drannor.sh</path>
+		<name>Pool-Of-Radiance-Ruins-Of-Myth-Drannor</name>
+		<playcount>7</playcount>
+		<lastplayed>20220202T030251</lastplayed>
+	</game>
+	<game>
+		<path>./Age-Of-Empires.sh</path>
+		<name>Age of Empires</name>
+		<desc>Control your tribe with the mouse. Make them build houses, docks, farms, and temples. Advance your civilization through time by learning new skills. The game allows for the player to advance through the ages: stone age, tool age, bronze age. If the player would rather get away from the historical aspect, the game offers a random terrain generator and a custom scenario builder.</desc>
+		<image>./boxart/aoe-image.jpg</image>
+		<video>./snap/Age-Of-Empires.mp4</video>
+		<marquee>./boxart/Age-Of-Empires-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19971015T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Strategy</genre>
+		<playcount>43</playcount>
+		<lastplayed>20220202T192719</lastplayed>
+	</game>
+	<game>
+		<path>./Harry-Potter-Prisoner-Of-Azkaban.sh</path>
+		<name>Harry Potter and the Prisoner of Azkaban</name>
+		<desc>Sirius Black appears to be seeking revenge on Harry for thwarting "You-Know-Who",while the Dementors, Azkaban prison guards sent to Hogwarts to protect the school and recapture Black, affect Harry in a disturbing way. With the help of his friends, Ron and Hermione, Harry is intent on unraveling the mystery surrounding Sirius Black and his escape from Azkaban.</desc>
+		<image>./boxart/Harry-Potter-Prisoner-Of-Azkaban-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20040525T000000</releasedate>
+		<developer>EA</developer>
+		<publisher>EA Games</publisher>
+		<genre>Action, Adventure</genre>
+		<playcount>9</playcount>
+		<lastplayed>20220202T211519</lastplayed>
+	</game>
+	<game>
+		<path>./Silent-Hill-2-Directors-Cut.sh</path>
+		<name>Silent Hill 2 - Director's Cut</name>
+		<desc>While set in the series' eponymous fictional American town, Silent Hill 2 is not a direct sequel to the first Silent Hill game. Instead, it centers on James Sunderland, who enters the town after receiving a letter written by his deceased wife, saying she is waiting for him in their "special place" in Silent Hill. Joined by Maria, who strongly resembles her, he searches for her and discovers the truth about her death. Additional material in re-releases and ports included Born from a Wish, a sub-scenario which focuses on Maria before she and James meet.</desc>
+		<image>./boxart/Silent-Hill-2-Directors-Cut-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20031231T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Horror</genre>
+		<playcount>5</playcount>
+		<lastplayed>20220202T203501</lastplayed>
+	</game>
+	<game>
+		<path>./Silent-Hill-3.sh</path>
+		<name>Silent Hill 3</name>
+		<desc>Silent Hill 3 is a survival horror video game published by Konami for the PlayStation 2 that was developed by Team Silent, a production group within Konami Computer Entertainment Tokyo. It is the third installment in the Silent Hill series and a direct sequel to the first Silent Hill game. It was released in May 2003, with a port to Microsoft Windows released in October of the same year.
+
+Set seventeen years after the events of Silent Hill in which Harry Mason defeats the god of the town cult and is given a baby girl to care for, Silent Hill 3 focuses on Heather Mason, a teenage girl raised by Harry in Portland. She discovers that the cult plans to use her to birth their god, and becomes caught in a conflict within the cult.
+
+Silent Hill 3 was mostly well received by critics, especially in its presentation, including the environments, graphics and audio, as well as the overall horror elements and themes that are continued from past installments.</desc>
+		<image>./boxart/Silent-Hill-3-image.png</image>
+		<rating>0</rating>
+		<releasedate>20031202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Horror</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220202T203608</lastplayed>
+	</game>
+	<game>
+		<path>./Silent-Hill-4-The-Room.sh</path>
+		<name>Silent Hill 4: The Room</name>
+		<desc>Henry Townshend is a man living in a small apartment in South Ashfield, a neighboring town of the infamous Silent Hill. On one strange night, Henry has a terrible nightmare, with recurring events: his phone is dead, his windows are sealed, and his neighbors can't hear him. He looks at his door, only to see it is blocked by several thick metal chains. A note is pinned to the door: "Don't go out!" It is signed only by a man named Walter. Henry explores his apartment, trying to figure out what is happening, when he spots a giant hole in the wall of his bathroom. Henry goes through the hole, only to find a portal which leads him to alternate dimensions. Hopefully, Henry will find out the truth about his apartment, Room 302, and live.</desc>
+		<image>./boxart/Silent-Hill-4-The-Room-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20040914T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Horror</genre>
+		<playcount>14</playcount>
+		<lastplayed>20220202T230406</lastplayed>
+	</game>
+	<game>
+		<path>./Spooky-Castle.sh</path>
+		<name>Spooky Castle</name>
+		<desc>King Michael has promised the hand of marriage to Princess Clare to anyone who can save her from Spooky Castle. You, Gormless Gary has taken up the challenge and entered the castle. To hinder Gary in his quest, there are bats and ghosts flying about with fire scattered around also. Touching any of these reduces Gary's energy bar. When the bar is empty then it's game over when all lives are lost. Scattered around the castle though are crosses which give extra lives, potions which give Gary more energy and keys which open doors.</desc>
+		<image>./boxart/Spooky-Castle-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Atlantis Software Limited</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./The-Settlers.sh</path>
+		<name>The Settlers</name>
+		<desc>The Settlers (also known as Serf City: Life is Feudal, original German title Die Siedler) is a slow-paced strategy video game by Blue Byte Software, released in 1993 for Commodore Amiga and in 1994 for the PC. The player is tasked with building a medieval settlement populated by an army of workers, each of whom perform their own individual task. The player competes against computer controlled opponents or another human player for supremacy of the land and resources.</desc>
+		<image>./boxart/The-Settlers-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>Blue Byte Software</developer>
+		<publisher>Blue Byte â€“ studio Mainz</publisher>
+		<genre>Construction and Management Simulation, Strategy, Life Simulation</genre>
+		<playcount>8</playcount>
+		<lastplayed>20220202T113315</lastplayed>
+	</game>
+	<game>
+		<path>./The-Simpsons-Hit-And-Run.sh</path>
+		<name>The Simpsons: Hit &amp; Run</name>
+		<desc>There are strange happenings in Springfield. People are missing, very mysterious crop circles are appearing, and hidden cameras are being exposed. When Homer notices a black van with a satellite dish parked outside the Simpsons house, he decides to investigate further into these odd events. What he reveals could be the biggest mystery to rock Springfield since Who Shot Mr. Burns?
+
+The Simpsons Hit &amp; Run promises a hilarious mission based driving game with exciting out-of-the-car platform gameplay, the signature satire of The Simpsons, and the interactive world of Springfield.</desc>
+		<image>./boxart/The-Simpsons-Hit-And-Run-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20031111T000000</releasedate>
+		<developer>Radical Entertainment Inc.</developer>
+		<publisher>Vivendi Games</publisher>
+		<genre>Action</genre>
+		<playcount>71</playcount>
+		<lastplayed>20220202T173010</lastplayed>
 	</game>
 </gameList>
