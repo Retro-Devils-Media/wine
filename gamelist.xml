@@ -366,6 +366,7 @@ Graphics are entirely 3D with reflective water effects and realistic bouncing an
 		<name>Harry Potter and the Prisoner of Azkaban</name>
 		<desc>Sirius Black appears to be seeking revenge on Harry for thwarting "You-Know-Who",while the Dementors, Azkaban prison guards sent to Hogwarts to protect the school and recapture Black, affect Harry in a disturbing way. With the help of his friends, Ron and Hermione, Harry is intent on unraveling the mystery surrounding Sirius Black and his escape from Azkaban.</desc>
 		<image>./boxart/Harry-Potter-Prisoner-Of-Azkaban-image.jpg</image>
+		<marquee>./boxart/Harry-Potter-Prisoner-Of-Azkaban-marquee.png</marquee>
 		<rating>0</rating>
 		<releasedate>20040525T000000</releasedate>
 		<developer>EA</developer>
@@ -379,6 +380,7 @@ Graphics are entirely 3D with reflective water effects and realistic bouncing an
 		<name>Silent Hill 2 - Director's Cut</name>
 		<desc>While set in the series' eponymous fictional American town, Silent Hill 2 is not a direct sequel to the first Silent Hill game. Instead, it centers on James Sunderland, who enters the town after receiving a letter written by his deceased wife, saying she is waiting for him in their "special place" in Silent Hill. Joined by Maria, who strongly resembles her, he searches for her and discovers the truth about her death. Additional material in re-releases and ports included Born from a Wish, a sub-scenario which focuses on Maria before she and James meet.</desc>
 		<image>./boxart/Silent-Hill-2-Directors-Cut-image.jpg</image>
+		<marquee>./boxart/Silent-Hill-2-Directors-Cut-marquee.png</marquee>
 		<rating>0</rating>
 		<releasedate>20031231T000000</releasedate>
 		<developer>Konami</developer>
@@ -396,6 +398,7 @@ Set seventeen years after the events of Silent Hill in which Harry Mason defeats
 
 Silent Hill 3 was mostly well received by critics, especially in its presentation, including the environments, graphics and audio, as well as the overall horror elements and themes that are continued from past installments.</desc>
 		<image>./boxart/Silent-Hill-3-image.png</image>
+		<marquee>./boxart/Silent-Hill-3-marquee.png</marquee>
 		<rating>0</rating>
 		<releasedate>20031202T000000</releasedate>
 		<developer>Konami</developer>
@@ -409,6 +412,7 @@ Silent Hill 3 was mostly well received by critics, especially in its presentatio
 		<name>Silent Hill 4: The Room</name>
 		<desc>Henry Townshend is a man living in a small apartment in South Ashfield, a neighboring town of the infamous Silent Hill. On one strange night, Henry has a terrible nightmare, with recurring events: his phone is dead, his windows are sealed, and his neighbors can't hear him. He looks at his door, only to see it is blocked by several thick metal chains. A note is pinned to the door: "Don't go out!" It is signed only by a man named Walter. Henry explores his apartment, trying to figure out what is happening, when he spots a giant hole in the wall of his bathroom. Henry goes through the hole, only to find a portal which leads him to alternate dimensions. Hopefully, Henry will find out the truth about his apartment, Room 302, and live.</desc>
 		<image>./boxart/Silent-Hill-4-The-Room-image.jpg</image>
+		<marquee>./boxart/Silent-Hill-4-The-Room-marquee.png</marquee>
 		<rating>0</rating>
 		<releasedate>20040914T000000</releasedate>
 		<developer>Konami</developer>
@@ -432,6 +436,7 @@ Silent Hill 3 was mostly well received by critics, especially in its presentatio
 		<name>The Settlers</name>
 		<desc>The Settlers (also known as Serf City: Life is Feudal, original German title Die Siedler) is a slow-paced strategy video game by Blue Byte Software, released in 1993 for Commodore Amiga and in 1994 for the PC. The player is tasked with building a medieval settlement populated by an army of workers, each of whom perform their own individual task. The player competes against computer controlled opponents or another human player for supremacy of the land and resources.</desc>
 		<image>./boxart/The-Settlers-image.jpg</image>
+		<marquee>./boxart/The-Settlers-marquee.png</marquee>
 		<rating>0</rating>
 		<releasedate>19931201T000000</releasedate>
 		<developer>Blue Byte Software</developer>
@@ -447,6 +452,7 @@ Silent Hill 3 was mostly well received by critics, especially in its presentatio
 
 The Simpsons Hit &amp; Run promises a hilarious mission based driving game with exciting out-of-the-car platform gameplay, the signature satire of The Simpsons, and the interactive world of Springfield.</desc>
 		<image>./boxart/The-Simpsons-Hit-And-Run-image.jpg</image>
+		<marquee>./boxart/The-Simpsons-Hit-And-Run-marquee.png</marquee>
 		<rating>0</rating>
 		<releasedate>20031111T000000</releasedate>
 		<developer>Radical Entertainment Inc.</developer>
