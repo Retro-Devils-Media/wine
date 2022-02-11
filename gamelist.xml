@@ -7,22 +7,22 @@
 		<lastplayed>20211231T232602</lastplayed>
 	</game>
 	<game>
-		<path>./wine-apps/Wine Desktop.sh</path>
-		<name>Wine Desktop</name>
-		<playcount>7</playcount>
-		<lastplayed>20220201T020051</lastplayed>
-	</game>
-	<game>
 		<path>./wine-apps/Wine Config.sh</path>
 		<name>Wine Config</name>
-		<playcount>16</playcount>
-		<lastplayed>20220202T122525</lastplayed>
+		<playcount>36</playcount>
+		<lastplayed>20220209T173307</lastplayed>
+	</game>
+	<game>
+		<path>./wine-apps/Wine Desktop.sh</path>
+		<name>Wine Desktop</name>
+		<playcount>10</playcount>
+		<lastplayed>20220209T161929</lastplayed>
 	</game>
 	<game>
 		<path>./wine-apps/Wine Explorer.sh</path>
 		<name>Wine Explorer</name>
-		<playcount>65</playcount>
-		<lastplayed>20220202T211027</lastplayed>
+		<playcount>96</playcount>
+		<lastplayed>20220210T012031</lastplayed>
 	</game>
 	<game>
 		<path>./Starcraft.sh</path>
@@ -38,10 +38,10 @@ StarCraft: Brood War Game manual
 Dependencies Chart
 Prima's Official Strategy Guide StarCraft
 Prima's Official Strategy Guide StarCraft: Brood War</desc>
-		<image>./boxart/starcraft-image.jpg</image>
+		<image>./boxart/starcraft.jpg</image>
 		<video>./snap/Starcraft.mp4</video>
-		<marquee>./boxart/Starcraft-marquee.png</marquee>
-		<screenshot>./boxart/Starcraft-screenshot.png</screenshot>
+		<marquee>./marquee/Starcraft.png</marquee>
+		<screenshot>./flyer/Starcraft.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19980101T000000</releasedate>
 		<developer>Blizzard</developer>
@@ -56,10 +56,10 @@ Prima's Official Strategy Guide StarCraft: Brood War</desc>
 		<desc>The story of Diablo II takes place some time after the end of the previous game, Diablo, in the lands of Sanctuary. In Diablo the main body of the story takes place beneath the floors of a cathedral in a small town known as Tristram. It is here that Diablo, the Lord of Terror, is defeated by an unnamed warrior after many previous battles are also won.
 The unnamed warrior that vanquished Diablo drove the demon's soulstone into his forehead, in an attempt to contain the monster's essence within his own body. Later in the canon it is suggested that this is what Diablo intended so that, should he be defeated, he had an "escape plan" in place of dying.
 The unnamed warrior is ill fated from the moment he does this and is gradually corrupted over the course of the next few days by the demon's spirit. Deckard Cain recounts the story to the next band of adventurers that pass through the Rogue Encampment in Diablo II. It is one of these adventurers that appears in the wake of the destruction caused by the now possessed unnamed warrior, and attempts to find out the cause of the evil, starting with the corrupted warrior (known as the Dark Wanderer throughout Diablo II).</desc>
-		<image>./boxart/diablo2-image.jpg</image>
+		<image>./boxart/diablo2.jpg</image>
 		<video>./snap/Diablo-2.mp4</video>
-		<marquee>./boxart/Diablo-2-marquee.png</marquee>
-		<screenshot>./boxart/Diablo-2-screenshot.png</screenshot>
+		<marquee>./marquee/Diablo-2.png</marquee>
+		<screenshot>./flyer/Diablo-2.png</screenshot>
 		<rating>0</rating>
 		<releasedate>20000629T000000</releasedate>
 		<developer>Blizzard</developer>
@@ -75,10 +75,10 @@ The unnamed warrior is ill fated from the moment he does this and is gradually c
 		<desc>The Warcraft III Battle Chest is the ultimate collection of the best-selling Blizzard strategy games. This set includes 2002 Game of the Year Warcraft III: The Reign of Chaos, as well as Warcraft III Expansion: The Frozen Throne.
 Warcraft III Reign of Chaos:         N9UBI4-GRQS-TDV29O-QF8H-7SMKLM
 Warcraft III The Frozen Throne: WGMNX2-EGT7-8KD9EV-H6ZR-ZPH7PZ</desc>
-		<image>./boxart/warcraft3-image.jpg</image>
+		<image>./boxart/warcraft3.jpg</image>
 		<video>./snap/Warcraft-3.mp4</video>
-		<marquee>./boxart/Warcraft-3-marquee.png</marquee>
-		<screenshot>./boxart/Warcraft-3-screenshot.png</screenshot>
+		<marquee>./marquee/Warcraft-3.png</marquee>
+		<screenshot>./flyer/Warcraft-3.png</screenshot>
 		<rating>0</rating>
 		<releasedate>20030919T000000</releasedate>
 		<developer>Blizzard</developer>
@@ -92,10 +92,10 @@ Warcraft III The Frozen Throne: WGMNX2-EGT7-8KD9EV-H6ZR-ZPH7PZ</desc>
 		<desc>During 2241, Arroyo suffered the worst drought on record. Faced with the calamity, the village elders asked the direct descendant of the Vault Dweller, referred to as the Chosen One, to perform the quest of retrieving a Garden of Eden Creation Kit (GECK) for Arroyo. The GECK is a device that can create thriving communities out of the post-apocalyptic wasteland.[4]
 
 The player, assuming the role of the Chosen One, is given nothing more than the Vault Dweller's jumpsuit, a RobCo PIPBoy 2000 handheld device, a Vault 13 water flask, a spear and some cash to start on his mission.</desc>
-		<image>./boxart/fallout2-image.jpg</image>
+		<image>./boxart/Fallout-2.jpg</image>
 		<video>./snap/Fallout-2.mp4</video>
-		<marquee>./boxart/Fallout-2-marquee.png</marquee>
-		<screenshot>./boxart/Fallout-2-screenshot.png</screenshot>
+		<marquee>./marquee/Fallout-2.png</marquee>
+		<screenshot>./flyer/Fallout-2.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19980930T000000</releasedate>
 		<developer>Black Isle Studios</developer>
@@ -103,27 +103,13 @@ The player, assuming the role of the Chosen One, is given nothing more than the 
 		<genre>Action, Adventure, Role-Playing</genre>
 	</game>
 	<game>
-		<path>./Fallout-Tactics.sh</path>
-		<name>Fallout Tactics: Brotherhood of Steel</name>
-		<desc>In this gritty and darkly humorous third-person action adventure, players join the courageous Brotherhood of Steel, whose mission is to maintain peace in the grim post-nuclear world of Fallout. Challenged by hordes of ghouls, mutants, and other radioactive nightmares, players utilize a combination of intense combat strategies including melee, ranged weapons and explosives to fulfill their daunting task of defeating the mutant army in hopes of restoring humanity in a nearly unlivable universe. Welcome to the wasteland.</desc>
-		<image>./boxart/fallouttactics-image.jpg</image>
-		<video>./snap/Fallout-Tactics.mp4</video>
-		<marquee>./boxart/Fallout-Tactics-marquee.png</marquee>
-		<screenshot>./boxart/Fallout-Tactics-screenshot.png</screenshot>
-		<rating>0</rating>
-		<releasedate>20010314T000000</releasedate>
-		<developer />
-		<publisher>Interplay Entertainment Corp.</publisher>
-		<genre>Role-Playing, Strategy</genre>
-	</game>
-	<game>
 		<path>./Fallout.sh</path>
 		<name>Fallout</name>
 		<desc>Gameplay in Fallout consists of traveling around the game world, visiting locations and interacting with the local inhabitants, and is typically in real-time. Occasionally, inhabitants will be immersed in dilemmas which the player may choose to solve in order to acquire karma and experience points. Alternately, the player may choose to ignore requests for help, in which case he or she has the option of acting on behalf of an opposing faction, or purely in self-interest. Experience points may still be rewarded if the player acts for an opposing interest or in self-interest. Ultimately, players will encounter hostile opponents (if such encounters are not avoided using stealth or diplomacy), in which case they and the player will engage in combat.</desc>
-		<image>./boxart/fallout-image.jpg</image>
+		<image>./boxart/Fallout.jpg</image>
 		<video>./snap/Fallout.mp4</video>
-		<marquee>./boxart/Fallout-marquee.png</marquee>
-		<screenshot>./boxart/Fallout-screenshot.png</screenshot>
+		<marquee>./marquee/Fallout.png</marquee>
+		<screenshot>./flyer/Fallout.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19970930T000000</releasedate>
 		<developer>Black Isle Studio</developer>
@@ -133,25 +119,10 @@ The player, assuming the role of the Chosen One, is given nothing more than the 
 		<lastplayed>20211230T182822</lastplayed>
 	</game>
 	<game>
-		<path>./Command-And-Conquer-TS.sh</path>
-		<name>Command &amp; Conquer: Tiberian Sun - Firestorm</name>
-		<desc>Firestorm is the official Expansion pack for Command &amp; Conquer: Tiberian Sun and was released in March 2000 by Westwood Studios. Whether or not the information about the death of NOD leader Kane is true, it appears that a new menace is developing; this force will require an alliance between the Global Defense Initiative and the Brotherhood of NOD. There are 18 new single-player missions and 15 multiplayer battles to keep you busy, and more than 30 minutes of live-action video to move the story along. Fight thousands of opponents for control of 30 territories in online play.</desc>
-		<image>./boxart/cncts-image.jpg</image>
-		<video>./snap/Command-And-Conquer-TS.mp4</video>
-		<marquee>./boxart/Command-And-Conquer-TS-marquee.png</marquee>
-		<screenshot>./boxart/Command-And-Conquer-TS-screenshot.png</screenshot>
-		<rating>0</rating>
-		<releasedate>20000308T000000</releasedate>
-		<developer>Westwood Studios, Inc.</developer>
-		<publisher>Westwood Studios, Inc.</publisher>
-		<genre>Strategy</genre>
-		<players>4</players>
-	</game>
-	<game>
 		<path>./Age-Of-Empires-2.sh</path>
 		<name>Age of Empires II: The Age of Kings</name>
 		<desc>The Age of Kings focuses on building towns, gathering resources, creating armies, and destroying enemy units and buildings. Players conquer rival towns and empires as they advance one of 13 civilizations through four "Ages": the Dark Age, the Feudal Age, the Castle Age (The Middle Ages), and the Imperial Age, reminiscent of the Renaissance—a 1000 year timeframe.</desc>
-		<image>./boxart/aoe2-image.jpg</image>
+		<image>./boxart/aoe2.jpg</image>
 		<rating>0</rating>
 		<releasedate>19990930T000000</releasedate>
 		<developer>Ensemble Studios</developer>
@@ -170,7 +141,7 @@ The 11 new units consist of the following: Conquistadors, Eagle Warriors, Halber
 Age of Empires II: The Conquerors Expansion is the official add-on to the award-winning, best-selling real-time strategy game Age of Empires II: The Age of Kings. 
 
 Focusing on legendary leaders, The Conquerors will challenge veterans and novices to wage war on an epic scale with all-new civilizations, unique units and technologies, and campaigns based on infamous conquerors such as Attila the Hun, El Cid and Montezuma.</desc>
-		<image>./boxart/aoe2e-image.jpg</image>
+		<image>./boxart/aoe2e.jpg</image>
 		<rating>0</rating>
 		<releasedate>20000825T000000</releasedate>
 		<developer>Ensemble Studios</developer>
@@ -180,36 +151,12 @@ Focusing on legendary leaders, The Conquerors will challenge veterans and novice
 		<lastplayed>20220101T235438</lastplayed>
 	</game>
 	<game>
-		<path>./Age-Of-Empires-The-Rise-Of-Rome.sh</path>
-		<name>Age of Empires: The Rise of Rome</name>
-		<desc>The Rise of Rome features a new Roman architectural design, shared by all four new civilizations, the Romans, Palmyrans, Macedonians and Carthaginians.
-
-Four new researchable technologies have been added. Additional new features include five new units, four new random map types, and a larger map size option. Pathfinding for all units is also considerably improved.
-
-Gameplay-wise, the expansion introduced numerous interface tweaks, such as unit queuing, the ability to double click a single unit and highlight others of the same unit-type, balancing damage done by catapults, and the option to increase the population limit beyond 50 (only in multiplayer games).
-
-By installing the 1.0a update, it is also possible to use the period key to cycle through idle villagers.
-
-New music was composed for this expansion, which replaced the original score entirely.</desc>
-		<image>./boxart/aoee-image.jpg</image>
-		<video>./snap/Age-Of-Empires-The-Rise-Of-Rome.mp4</video>
-		<marquee>./boxart/Age-Of-Empires-The-Rise-Of-Rome-marquee.png</marquee>
-		<screenshot>./boxart/Age-Of-Empires-The-Rise-Of-Rome-screenshot.png</screenshot>
-		<rating>0</rating>
-		<releasedate>19981031T000000</releasedate>
-		<developer>Ensemble Studios</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Strategy</genre>
-		<playcount>30</playcount>
-		<lastplayed>20220106T235836</lastplayed>
-	</game>
-	<game>
 		<path>./games/Mugen/mugen.exe</path>
 		<name>MUGEN</name>
 		<desc>M.U.G.E.N (also known simply as MUGEN) is a freeware 2D fighting game engine designed by Elecbyte. Content is created by the community, and thousands of fighters, both original and from popular fiction, have been created. It is written in C which originally used the Allegro library. The latest versions of the engine now use the SDL library.
 
 Elecbyte released the customizable fighting game M.U.G.E.N in 1999. The engine was originally released on July 17, 1999. Beta versions of it were made to work on MS-DOS and Linux platforms (Windows platform was never officially released until the release of 1.0 RC1 version, previous Windows unfinished versions were "leaked" since 2003), distributed through their website. The engine allows users to insert created characters, background stages, and other game objects through interpreted text files, graphics, and sound compilations to create a functioning fighting game similar to commercial games. While the engine is set up primarily for fighting game development, several other book types have been developed using it, including shooter and platform style games. Officially, Elecbyte claims to have forgotten what the acronym M.U.G.E.N stood for, but the readme documentation states that its meaning referred to the days when the engine was meant to emulate shooting games as opposed to fighting games. The meaning of "mugen" (無限) in Japanese, "unlimited" or "infinite", may have influenced the naming. M.U.G.E.N later expanded into a wide variety of teams and communities such as Mugen Fighters Guild, Mugen Infantry and Mugen Free For All. M.U.G.E.N. also gained more mainstream press with the creation of the Twitch.tv live stream called Salty Bet, where viewers can bet with fake money on 1 Vs. 1 CPU matches played using the engine.</desc>
-		<image>./boxart/mugen-image.jpg</image>
+		<image>./boxart/mugen.jpg</image>
 		<rating>0</rating>
 		<releasedate>19990727T000000</releasedate>
 		<developer>Elecbyte</developer>
@@ -224,10 +171,10 @@ Elecbyte released the customizable fighting game M.U.G.E.N in 1999. The engine w
 		<desc>Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings. 
 
 Play as Cuphead or Mugman (in single player or local co-op) as you traverse strange worlds, acquire new weapons, learn powerful super moves, and discover hidden secrets while you try to pay your debt back to the devil!</desc>
-		<image>./boxart/cuphead-image.jpg</image>
+		<image>./boxart/cuphead.jpg</image>
 		<video>./snap/Cuphead.mp4</video>
-		<marquee>./boxart/Cuphead-marquee.png</marquee>
-		<screenshot>./boxart/Cuphead-screenshot.png</screenshot>
+		<marquee>./marquee/Cuphead.png</marquee>
+		<screenshot>./flyer/Cuphead.png</screenshot>
 		<rating>0</rating>
 		<releasedate>20170929T000000</releasedate>
 		<developer>Studio MDHR Entertainment Inc.</developer>
@@ -238,28 +185,13 @@ Play as Cuphead or Mugman (in single player or local co-op) as you traverse stra
 		<lastplayed>20220108T000910</lastplayed>
 	</game>
 	<game>
-		<path>./The-House-Of-The-Dead.sh</path>
-		<name>The House of the Dead</name>
-		<desc>The House of the Dead is a first-person, light gun arcade game. Players assume the role of agents Thomas Rogan and "G" in their efforts to repel the dangerous, inhumane experiments of Dr. Curien, a madman.</desc>
-		<image>./boxart/THOTD-image.jpg</image>
-		<video>./snap/THOTD.mp4</video>
-		<marquee>./boxart/THOTD-marquee.png</marquee>
-		<screenshot>./boxart/THOTD-screenshot.png</screenshot>
-		<rating>0</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./The-House-Of-The-Dead-2.sh</path>
 		<name>The House Of The Dead 2</name>
 		<desc>The House of the Dead 2 is a rail shooter light gun game. It incorporates a branching path system that allows players to take a variety of different routes leading to the same point in the game's story.</desc>
-		<image>./boxart/THOTD2-image.jpg</image>
+		<image>./boxart/THOTD2.jpg</image>
 		<video>./snap/THOTD2.mp4</video>
-		<marquee>./boxart/THOTD2-marquee.png</marquee>
-		<screenshot>./boxart/THOTD2-screenshot.png</screenshot>
+		<marquee>./marquee/THOTD2.png</marquee>
+		<screenshot>./flyer/THOTD2.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19981101T000000</releasedate>
 		<developer>WOW Entertainment</developer>
@@ -273,10 +205,10 @@ Play as Cuphead or Mugman (in single player or local co-op) as you traverse stra
 		<desc>For the first time in gaming history, after countless games depicting various aspects of the rich Star Wars universe (including some we never wanted to see), players have the chance to step into the boots of the average soldier in the wars that raged across the galaxy. Gameplay is based on the successful standards set by Battlefield 1942, but combat in Battlefront is even more massive and heated, vehicles are more predominant and the familiar starships are also included.
 
 There are three different game modes to play: Historical Campaign (featuring a series of "historical" battles from the Star Wars mythos), Conquest (in which players vie for dominance of individual planets) and, of course, Instant Action. The game puts two pairs of factions at war: Republic vs Separatists and Rebel Alliance vs Galactic Empire. Each faction has four standard unit types (soldier, heavy weapons trooper, scout and pilot) plus a fifth, special unit which differs radically for each side. Famous Jedi and Sith are included as NPCs only in selected battles. Finally, the game offers almost all of the vehicles seen in the movies for players to fly, drive or hover and prevail.</desc>
-		<image>./boxart/Star-Wars-Battlefront-image.jpg</image>
+		<image>./boxart/Star-Wars-Battlefront.jpg</image>
 		<video>./snap/Star-Wars-Battlefront.mp4</video>
-		<marquee>./boxart/Star-Wars-Battlefront-marquee.png</marquee>
-		<screenshot>./boxart/Star-Wars-Battlefront-screenshot.png</screenshot>
+		<marquee>./marquee/Star-Wars-Battlefront.png</marquee>
+		<screenshot>./flyer/Star-Wars-Battlefront.png</screenshot>
 		<rating>0</rating>
 		<releasedate>20040921T000000</releasedate>
 		<developer>Pandemic Studios</developer>
@@ -293,10 +225,10 @@ There are three different game modes to play: Historical Campaign (featuring a s
 -Team up in the Story Mode for a single or 2-player co-operative game
 -Kick some ninja-butt with cool combos and special attacks
 -Go head-to-head in the VS Mode</desc>
-		<image>./boxart/TMNT-image.png</image>
+		<image>./boxart/TMNT.png</image>
 		<video>./snap/TMNT.mp4</video>
-		<marquee>./boxart/TMNT-marquee.png</marquee>
-		<screenshot>./boxart/TMNT-screenshot.png</screenshot>
+		<marquee>./marquee/TMNT.png</marquee>
+		<screenshot>./flyer/TMNT.png</screenshot>
 		<rating>0</rating>
 		<releasedate>20031125T000000</releasedate>
 		<developer>Konami</developer>
@@ -305,32 +237,15 @@ There are three different game modes to play: Historical Campaign (featuring a s
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Unreal-Anthology.sh</path>
-		<name>Unreal Anthology</name>
-		<desc>Unreal Anthology contains the original Unreal with the Return to Na Pali expansion pack , Unreal Tournament GOTY edition, Unreal II, and UT2004 Editors Choice. From the ruthless artificial intelligence of the original UNREAL, the death gladiator chaos of UNREAL TOURNAMENT and beyond, the Unreal franchise is the king-of-the-hill in multiplayer carnage. Using the most advanced 3D engines ever created, mind bending worlds of mayhem and destruction await. Defining the first person shooter genre for the last decade, UNREAL has set the standard for the worlds ultimate multi-player experience. The entire smorgasbord of frag-dealing weaponry from Unreal Tournament returns for the experienced player to wield masterfully against new contestants.</desc>
-		<image>./boxart/Unreal-Anthology-image.jpg</image>
-		<video>./snap/Unreal-Anthology.mp4</video>
-		<marquee>./boxart/Unreal-Anthology-marquee.png</marquee>
-		<screenshot>./boxart/Unreal-Anthology-screenshot.png</screenshot>
-		<rating>0</rating>
-		<releasedate>20061031T000000</releasedate>
-		<developer>Epic Games</developer>
-		<publisher>Midway Games</publisher>
-		<genre>Shooter</genre>
-		<players>8</players>
-		<playcount>46</playcount>
-		<lastplayed>20220201T195655</lastplayed>
-	</game>
-	<game>
 		<path>./Hydro-Thunder.sh</path>
 		<name>Hydro Thunder</name>
 		<desc>Port of Midway's arcade boat-racer. The premise is non-existent, you simply rev up the engines and go on 13 water courses set in Antarctica, the far east, the Greek isles, etc. on different types of futuristic boats. Races use the usual arcade checkpoint system and scattered across the courses you'll find an assortment of power-ups and upgrades like nitro boosters.
 
 Graphics are entirely 3D with reflective water effects and realistic bouncing and bucking in the boats. Multiplayer competitions are supported for 2 players on the PlayStation version.</desc>
-		<image>./boxart/Hydro-Thunder-image.jpg</image>
+		<image>./boxart/Hydro-Thunder.jpg</image>
 		<video>./snap/Hydro-Thunder.mp4</video>
-		<marquee>./boxart/Hydro-Thunder-marquee.png</marquee>
-		<screenshot>./boxart/Hydro-Thunder-screenshot.png</screenshot>
+		<marquee>./marquee/Hydro-Thunder.png</marquee>
+		<screenshot>./flyer/Hydro-Thunder.png</screenshot>
 		<rating>0</rating>
 		<releasedate>19990909T000000</releasedate>
 		<developer>Midway</developer>
@@ -341,32 +256,11 @@ Graphics are entirely 3D with reflective water effects and realistic bouncing an
 		<lastplayed>20220201T225849</lastplayed>
 	</game>
 	<game>
-		<path>./Pool-Of-Radiance-Ruins-Of-Myth-Drannor.sh</path>
-		<name>Pool-Of-Radiance-Ruins-Of-Myth-Drannor</name>
-		<playcount>7</playcount>
-		<lastplayed>20220202T030251</lastplayed>
-	</game>
-	<game>
-		<path>./Age-Of-Empires.sh</path>
-		<name>Age of Empires</name>
-		<desc>Control your tribe with the mouse. Make them build houses, docks, farms, and temples. Advance your civilization through time by learning new skills. The game allows for the player to advance through the ages: stone age, tool age, bronze age. If the player would rather get away from the historical aspect, the game offers a random terrain generator and a custom scenario builder.</desc>
-		<image>./boxart/aoe-image.jpg</image>
-		<video>./snap/Age-Of-Empires.mp4</video>
-		<marquee>./boxart/Age-Of-Empires-marquee.png</marquee>
-		<rating>0</rating>
-		<releasedate>19971015T000000</releasedate>
-		<developer>Ensemble Studios</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Strategy</genre>
-		<playcount>43</playcount>
-		<lastplayed>20220202T192719</lastplayed>
-	</game>
-	<game>
 		<path>./Harry-Potter-Prisoner-Of-Azkaban.sh</path>
 		<name>Harry Potter and the Prisoner of Azkaban</name>
 		<desc>Sirius Black appears to be seeking revenge on Harry for thwarting "You-Know-Who",while the Dementors, Azkaban prison guards sent to Hogwarts to protect the school and recapture Black, affect Harry in a disturbing way. With the help of his friends, Ron and Hermione, Harry is intent on unraveling the mystery surrounding Sirius Black and his escape from Azkaban.</desc>
-		<image>./boxart/Harry-Potter-Prisoner-Of-Azkaban-image.jpg</image>
-		<marquee>./boxart/Harry-Potter-Prisoner-Of-Azkaban-marquee.png</marquee>
+		<image>./boxart/Harry-Potter-Prisoner-Of-Azkaban.jpg</image>
+		<marquee>./marquee/Harry-Potter-Prisoner-Of-Azkaban.png</marquee>
 		<rating>0</rating>
 		<releasedate>20040525T000000</releasedate>
 		<developer>EA</developer>
@@ -379,8 +273,8 @@ Graphics are entirely 3D with reflective water effects and realistic bouncing an
 		<path>./Silent-Hill-2-Directors-Cut.sh</path>
 		<name>Silent Hill 2 - Director's Cut</name>
 		<desc>While set in the series' eponymous fictional American town, Silent Hill 2 is not a direct sequel to the first Silent Hill game. Instead, it centers on James Sunderland, who enters the town after receiving a letter written by his deceased wife, saying she is waiting for him in their "special place" in Silent Hill. Joined by Maria, who strongly resembles her, he searches for her and discovers the truth about her death. Additional material in re-releases and ports included Born from a Wish, a sub-scenario which focuses on Maria before she and James meet.</desc>
-		<image>./boxart/Silent-Hill-2-Directors-Cut-image.jpg</image>
-		<marquee>./boxart/Silent-Hill-2-Directors-Cut-marquee.png</marquee>
+		<image>./boxart/Silent-Hill-2-Directors-Cut.jpg</image>
+		<marquee>./marquee/Silent-Hill-2-Directors-Cut.png</marquee>
 		<rating>0</rating>
 		<releasedate>20031231T000000</releasedate>
 		<developer>Konami</developer>
@@ -397,8 +291,8 @@ Graphics are entirely 3D with reflective water effects and realistic bouncing an
 Set seventeen years after the events of Silent Hill in which Harry Mason defeats the god of the town cult and is given a baby girl to care for, Silent Hill 3 focuses on Heather Mason, a teenage girl raised by Harry in Portland. She discovers that the cult plans to use her to birth their god, and becomes caught in a conflict within the cult.
 
 Silent Hill 3 was mostly well received by critics, especially in its presentation, including the environments, graphics and audio, as well as the overall horror elements and themes that are continued from past installments.</desc>
-		<image>./boxart/Silent-Hill-3-image.png</image>
-		<marquee>./boxart/Silent-Hill-3-marquee.png</marquee>
+		<image>./boxart/Silent-Hill-3.png</image>
+		<marquee>./marquee/Silent-Hill-3.png</marquee>
 		<rating>0</rating>
 		<releasedate>20031202T000000</releasedate>
 		<developer>Konami</developer>
@@ -411,8 +305,8 @@ Silent Hill 3 was mostly well received by critics, especially in its presentatio
 		<path>./Silent-Hill-4-The-Room.sh</path>
 		<name>Silent Hill 4: The Room</name>
 		<desc>Henry Townshend is a man living in a small apartment in South Ashfield, a neighboring town of the infamous Silent Hill. On one strange night, Henry has a terrible nightmare, with recurring events: his phone is dead, his windows are sealed, and his neighbors can't hear him. He looks at his door, only to see it is blocked by several thick metal chains. A note is pinned to the door: "Don't go out!" It is signed only by a man named Walter. Henry explores his apartment, trying to figure out what is happening, when he spots a giant hole in the wall of his bathroom. Henry goes through the hole, only to find a portal which leads him to alternate dimensions. Hopefully, Henry will find out the truth about his apartment, Room 302, and live.</desc>
-		<image>./boxart/Silent-Hill-4-The-Room-image.jpg</image>
-		<marquee>./boxart/Silent-Hill-4-The-Room-marquee.png</marquee>
+		<image>./boxart/Silent-Hill-4-The-Room.jpg</image>
+		<marquee>./marquee/Silent-Hill-4-The-Room.png</marquee>
 		<rating>0</rating>
 		<releasedate>20040914T000000</releasedate>
 		<developer>Konami</developer>
@@ -425,7 +319,7 @@ Silent Hill 3 was mostly well received by critics, especially in its presentatio
 		<path>./Spooky-Castle.sh</path>
 		<name>Spooky Castle</name>
 		<desc>King Michael has promised the hand of marriage to Princess Clare to anyone who can save her from Spooky Castle. You, Gormless Gary has taken up the challenge and entered the castle. To hinder Gary in his quest, there are bats and ghosts flying about with fire scattered around also. Touching any of these reduces Gary's energy bar. When the bar is empty then it's game over when all lives are lost. Scattered around the castle though are crosses which give extra lives, potions which give Gary more energy and keys which open doors.</desc>
-		<image>./boxart/Spooky-Castle-image.jpg</image>
+		<image>./boxart/Spooky-Castle.jpg</image>
 		<rating>0</rating>
 		<releasedate>19900101T000000</releasedate>
 		<publisher>Atlantis Software Limited</publisher>
@@ -435,8 +329,8 @@ Silent Hill 3 was mostly well received by critics, especially in its presentatio
 		<path>./The-Settlers.sh</path>
 		<name>The Settlers</name>
 		<desc>The Settlers (also known as Serf City: Life is Feudal, original German title Die Siedler) is a slow-paced strategy video game by Blue Byte Software, released in 1993 for Commodore Amiga and in 1994 for the PC. The player is tasked with building a medieval settlement populated by an army of workers, each of whom perform their own individual task. The player competes against computer controlled opponents or another human player for supremacy of the land and resources.</desc>
-		<image>./boxart/The-Settlers-image.jpg</image>
-		<marquee>./boxart/The-Settlers-marquee.png</marquee>
+		<image>./boxart/The-Settlers.jpg</image>
+		<marquee>./marquee/The-Settlers.png</marquee>
 		<rating>0</rating>
 		<releasedate>19931201T000000</releasedate>
 		<developer>Blue Byte Software</developer>
@@ -451,8 +345,8 @@ Silent Hill 3 was mostly well received by critics, especially in its presentatio
 		<desc>There are strange happenings in Springfield. People are missing, very mysterious crop circles are appearing, and hidden cameras are being exposed. When Homer notices a black van with a satellite dish parked outside the Simpsons house, he decides to investigate further into these odd events. What he reveals could be the biggest mystery to rock Springfield since Who Shot Mr. Burns?
 
 The Simpsons Hit &amp; Run promises a hilarious mission based driving game with exciting out-of-the-car platform gameplay, the signature satire of The Simpsons, and the interactive world of Springfield.</desc>
-		<image>./boxart/The-Simpsons-Hit-And-Run-image.jpg</image>
-		<marquee>./boxart/The-Simpsons-Hit-And-Run-marquee.png</marquee>
+		<image>./boxart/The-Simpsons-Hit-And-Run.jpg</image>
+		<marquee>./marquee/The-Simpsons-Hit-And-Run.png</marquee>
 		<rating>0</rating>
 		<releasedate>20031111T000000</releasedate>
 		<developer>Radical Entertainment Inc.</developer>
@@ -460,5 +354,373 @@ The Simpsons Hit &amp; Run promises a hilarious mission based driving game with 
 		<genre>Action</genre>
 		<playcount>71</playcount>
 		<lastplayed>20220202T173010</lastplayed>
+	</game>
+	<game>
+		<path>./BattleField-1942.sh</path>
+		<name>BattleField-1942</name>
+		<playcount>2</playcount>
+		<lastplayed>20220203T184604</lastplayed>
+	</game>
+	<game>
+		<path>./Angry-Birds-Seasons.sh</path>
+		<name>Angry-Birds-Seasons</name>
+		<image>./boxart/Angry-Birds-Seasons.png</image>
+              <marquee>./marquee/Angry-Birds-Seasons.png</marquee>
+		<playcount>1</playcount>
+		<lastplayed>20220203T191728</lastplayed>
+	</game>
+	<game>
+		<path>./The-House-Of-The-Dead-3.sh</path>
+		<name>The-House-Of-The-Dead-3</name>
+		<playcount>6</playcount>
+		<lastplayed>20220204T024221</lastplayed>
+	</game>
+	<game>
+		<path>./Unreal-Anthology.sh</path>
+		<name>Unreal Anthology</name>
+		<desc>Unreal Anthology contains the original Unreal with the Return to Na Pali expansion pack , Unreal Tournament GOTY edition, Unreal II, and UT2004 Editors Choice. From the ruthless artificial intelligence of the original UNREAL, the death gladiator chaos of UNREAL TOURNAMENT and beyond, the Unreal franchise is the king-of-the-hill in multiplayer carnage. Using the most advanced 3D engines ever created, mind bending worlds of mayhem and destruction await. Defining the first person shooter genre for the last decade, UNREAL has set the standard for the worlds ultimate multi-player experience. The entire smorgasbord of frag-dealing weaponry from Unreal Tournament returns for the experienced player to wield masterfully against new contestants.</desc>
+		<image>./boxart/Unreal-Anthology.jpg</image>
+		<video>./snap/Unreal-Anthology.mp4</video>
+		<marquee>./marquee/Unreal-Anthology.png</marquee>
+		<rating>0</rating>
+		<releasedate>20061031T000000</releasedate>
+		<developer>Epic Games</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Shooter</genre>
+		<players>8</players>
+		<playcount>52</playcount>
+		<lastplayed>20220206T175951</lastplayed>
+	</game>
+	<game>
+		<path>./Command-And-Conquer-First-Decade.sh</path>
+		<name>Command-And-Conquer-First-Decade</name>
+		<playcount>8</playcount>
+		<lastplayed>20220206T192453</lastplayed>
+	</game>
+	<game>
+		<path>./Halo.sh</path>
+		<name>Halo</name>
+		<playcount>1</playcount>
+		<lastplayed>20220206T202130</lastplayed>
+	</game>
+	<game>
+		<path>./GTA-Vice-City-Deluxe.sh</path>
+		<name>GTA-Vice-City-Deluxe</name>
+		<playcount>4</playcount>
+		<lastplayed>20220207T123418</lastplayed>
+	</game>
+	<game>
+		<path>./Age-Of-Empires.sh</path>
+		<name>Age of Empires</name>
+		<desc>Control your tribe with the mouse. Make them build houses, docks, farms, and temples. Advance your civilization through time by learning new skills. The game allows for the player to advance through the ages: stone age, tool age, bronze age. If the player would rather get away from the historical aspect, the game offers a random terrain generator and a custom scenario builder.</desc>
+		<image>./boxart/Age-Of-Empires.jpg</image>
+		<video>./snap/Age-Of-Empires.mp4</video>
+		<marquee>./marquee/Age-Of-Empires.png</marquee>
+		<rating>0</rating>
+		<releasedate>19971015T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Strategy</genre>
+		<playcount>52</playcount>
+		<lastplayed>20220207T200205</lastplayed>
+	</game>
+	<game>
+		<path>./Age-Of-Empires-The-Rise-Of-Rome.sh</path>
+		<name>Age of Empires: The Rise of Rome</name>
+		<desc>The Rise of Rome features a new Roman architectural design, shared by all four new civilizations, the Romans, Palmyrans, Macedonians and Carthaginians.
+
+Four new researchable technologies have been added. Additional new features include five new units, four new random map types, and a larger map size option. Pathfinding for all units is also considerably improved.
+
+Gameplay-wise, the expansion introduced numerous interface tweaks, such as unit queuing, the ability to double click a single unit and highlight others of the same unit-type, balancing damage done by catapults, and the option to increase the population limit beyond 50 (only in multiplayer games).
+
+By installing the 1.0a update, it is also possible to use the period key to cycle through idle villagers.
+
+New music was composed for this expansion, which replaced the original score entirely.</desc>
+		<image>./boxart/Age-Of-Empires-The-Rise-Of-Rome.jpg</image>
+		<video>./snap/Age-Of-Empires-The-Rise-Of-Rome.mp4</video>
+		<marquee>./marquee/Age-Of-Empires-The-Rise-Of-Rome.png</marquee>
+		<rating>0</rating>
+		<releasedate>19981031T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Strategy</genre>
+		<playcount>40</playcount>
+		<lastplayed>20220207T203018</lastplayed>
+	</game>
+	<game>
+		<path>./Streets-Of-Rage-Remake.sh</path>
+		<name>Streets Of Rage Remake v5.2</name>
+		<desc>Streets of Rage Remake v5.2
+
+Contains approximately 300 additional bug-fixes, tweaks, game-play improvements, and new features over the original v5.1 release. Download the full update at the ink below.
+
+Main New Features of Streets of Rage Remake v5.2.
+
+- Full 16:9 widescreen support for the main game and for Sormaker mods
+- 15 New tracks (both remixes and original) from BGM1401
+- New scenes added and graphics updated throughout the game
+- All new intro and updated graphics for endings, main menu, and shop
+- AI has been hugely improved, providing a better challenge and better balance
+- Achievements added
+- Overhauled menu layout with submenus and all new options
+- Choice of Remixed or Retro OST
+
+Here is the list of new remixes and original tracks for v5.2
+05. The Prologue
+06. In The Bar
+08. Up and Up
+13. Moon Beach
+25. The Super Three
+30. Bulldozer
+31. Too Deep
+33. Alien Power
+34. Dilapidated Town
+40. Wave 131
+45. Waterfront
+47. Stealthy Steps
+48. Beatnik On The Ship
+51. The Poets II
+77. Beat Ambience</desc>
+		<image>./boxart/Streets-Of-Rage-Remake.jpg</image>
+		<marquee>./marquee/Streets-Of-Rage-Remake.png</marquee>
+		<rating>0</rating>
+		<releasedate>20201116T000000</releasedate>
+		<developer>Bomber Games</developer>
+		<publisher>BoMbErGaMeS</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<playcount>38</playcount>
+		<lastplayed>20220207T194443</lastplayed>
+	</game>
+	<game>
+		<path>./Command-And-Conquer-TS.sh</path>
+		<name>Command &amp; Conquer: Tiberian Sun - Firestorm</name>
+		<desc>Firestorm is the official Expansion pack for Command &amp; Conquer: Tiberian Sun and was released in March 2000 by Westwood Studios. Whether or not the information about the death of NOD leader Kane is true, it appears that a new menace is developing; this force will require an alliance between the Global Defense Initiative and the Brotherhood of NOD. There are 18 new single-player missions and 15 multiplayer battles to keep you busy, and more than 30 minutes of live-action video to move the story along. Fight thousands of opponents for control of 30 territories in online play.</desc>
+		<image>./boxart/Command-And-Conquer-TS.jpg</image>
+		<video>./snap/Command-And-Conquer-TS.mp4</video>
+		<marquee>./marquee/Command-And-Conquer-TS.png</marquee>
+		<rating>0</rating>
+		<releasedate>20000308T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Westwood Studios, Inc.</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<playcount>9</playcount>
+		<lastplayed>20220207T222825</lastplayed>
+	</game>
+	<game>
+		<path>./Heroes-of-Might-and-Magic.sh</path>
+		<name>Heroes-of-Might-and-Magic</name>
+		<playcount>1</playcount>
+		<lastplayed>20220208T154304</lastplayed>
+	</game>
+	<game>
+		<path>./Heroes-of-Might-and-Magic2.sh</path>
+		<name>Heroes-of-Might-and-Magic2</name>
+		<playcount>1</playcount>
+		<lastplayed>20220208T154645</lastplayed>
+	</game>
+	<game>
+		<path>./games/setup 3/EarthLink/ACCESS/_SETUP.EXE</path>
+		<name>_SETUP</name>
+		<playcount>1</playcount>
+		<lastplayed>20220208T162716</lastplayed>
+	</game>
+	<game>
+		<path>./Heroes-of-Might-and-Magic3.sh</path>
+		<name>Heroes-of-Might-and-Magic3</name>
+		<playcount>7</playcount>
+		<lastplayed>20220208T163358</lastplayed>
+	</game>
+	<game>
+		<path>./The-House-Of-The-Dead.sh</path>
+		<name>The House of the Dead</name>
+		<desc>The House of the Dead is a first-person, light gun arcade game. Players assume the role of agents Thomas Rogan and "G" in their efforts to repel the dangerous, inhumane experiments of Dr. Curien, a madman.</desc>
+		<image>./boxart/THOTD.jpg</image>
+		<video>./snap/THOTD.mp4</video>
+		<marquee>./marquee/THOTD.png</marquee>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220208T184533</lastplayed>
+	</game>
+	<game>
+		<path>./GTA-3.sh</path>
+		<name>GTA-3</name>
+		<playcount>24</playcount>
+		<lastplayed>20220208T200546</lastplayed>
+	</game>
+	<game>
+		<path>./GTA-Vice-City.sh</path>
+		<name>GTA-Vice-City</name>
+		<playcount>10</playcount>
+		<lastplayed>20220208T204026</lastplayed>
+	</game>
+	<game>
+		<path>./Fallout-Tactics.sh</path>
+		<name>Fallout Tactics: Brotherhood of Steel</name>
+		<desc>In this gritty and darkly humorous third-person action adventure, players join the courageous Brotherhood of Steel, whose mission is to maintain peace in the grim post-nuclear world of Fallout. Challenged by hordes of ghouls, mutants, and other radioactive nightmares, players utilize a combination of intense combat strategies including melee, ranged weapons and explosives to fulfill their daunting task of defeating the mutant army in hopes of restoring humanity in a nearly unlivable universe. Welcome to the wasteland.</desc>
+		<image>./boxart/Fallout-Tactics.jpg</image>
+		<video>./snap/Fallout-Tactics.mp4</video>
+		<marquee>./marquee/Fallout-Tactics.png</marquee>
+		<rating>0</rating>
+		<releasedate>20010314T000000</releasedate>
+		<developer />
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Role-Playing, Strategy</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220208T205636</lastplayed>
+	</game>
+	<game>
+		<path>./Delta-Force-Task Force-Daggerr.sh</path>
+		<name>Delta-Force-Task Force-Daggerr</name>
+		<playcount>6</playcount>
+		<lastplayed>20220209T152444</lastplayed>
+	</game>
+	<game>
+		<path>./Delta-Force-2.sh</path>
+		<name>Delta-Force-2</name>
+		<playcount>21</playcount>
+		<lastplayed>20220209T155909</lastplayed>
+	</game>
+	<game>
+		<path>./Delta-Force-Xtreme-2.sh</path>
+		<name>Delta-Force-Xtreme-2</name>
+		<playcount>4</playcount>
+		<lastplayed>20220209T161024</lastplayed>
+	</game>
+	<game>
+		<path>./Delta-Force.sh</path>
+		<name>Delta-Force</name>
+		<playcount>6</playcount>
+		<lastplayed>20220209T174232</lastplayed>
+	</game>
+	<game>
+		<path>./Command-And-Conquer-Generals-ZH.sh</path>
+		<name>Command &amp; Conquer: Generals – Zero Hour</name>
+		<desc>Zero Hour also contains 3 new campaigns of five missions each, one for each side, with their chronological order being USA first, GLA second, and China last. Unlike the previous campaigns, which were noted by Command and Conquer fans for not having full motion video cinematic sequences during mission briefing, the Zero Hour campaigns return to that Command and Conquer tradition, each showing a live-action video of a news reporter of the respective side giving details about the situation behind the current mission. The plot behind the Zero Hour campaigns picks up where it left off at the end of the previous campaigns.</desc>
+		<image>./boxart/Command-And-Conquer-Generals-ZH.jpg</image>
+              <marquee>./marquee/Command-And-Conquer-Generals-ZH.png</marquee>
+		<rating>0</rating>
+		<releasedate>20030922T000000</releasedate>
+		<developer>EA</developer>
+		<publisher>EA Games</publisher>
+		<genre>Strategy</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220209T193348</lastplayed>
+	</game>
+	<game>
+		<path>./Delta-Force-Land-Warrior.sh</path>
+		<name>Delta-Force-Land-Warrior</name>
+		<playcount>7</playcount>
+		<lastplayed>20220209T175911</lastplayed>
+	</game>
+	<game>
+		<path>./Command-And-Conquer-Generals.sh</path>
+		<name>Command &amp; Conquer: Generals</name>
+		<desc>Generals takes place in the near future, with players given a choice of three factions to play. In Generals, the United States and China are the world's two superpowers, and are the targets of the Global Liberation Army or also known as the GLA, a large, well-organized terrorist organization, fighting as a fanatical irregular force. The United States and China are depicted as allies in the series, and frequently co-operate with each other throughout the storyline against the Global Liberation Army, which is depicted as an omnipresent, borderless organization with unclear goals beyond opposition to and expulsion of both China and the United States. The three factions are thus engaged in a war similar to that of the real-life War on Terror.</desc>
+		<image>./boxart/Command-And-Conquer-Generals.jpg</image>
+              <marquee>./marquee/Command-And-Conquer-Generals.png</marquee>
+
+		<rating>0</rating>
+		<releasedate>20030210T000000</releasedate>
+		<developer>EA</developer>
+		<publisher>EA Games</publisher>
+		<genre>Strategy</genre>
+		<players>8</players>
+		<playcount>19</playcount>
+		<lastplayed>20220209T195307</lastplayed>
+	</game>
+	<game>
+		<path>./Delta-Force-Black-Hawk-Down.sh</path>
+		<name>Delta-Force-Black-Hawk-Down</name>
+		<playcount>41</playcount>
+		<lastplayed>20220209T200156</lastplayed>
+	</game>
+	<game>
+		<path>./games/CxbxReloaded-Release-VS2019/cxbx.exe</path>
+		<name>cxbx</name>
+		<playcount>2</playcount>
+		<lastplayed>20220209T211454</lastplayed>
+	</game>
+	<game>
+		<path>./games/CxbxReloaded-Release-VS2019/cxbxr-ldr.exe</path>
+		<name>cxbxr-ldr</name>
+		<playcount>1</playcount>
+		<lastplayed>20220209T211214</lastplayed>
+	</game>
+	<game>
+		<path>./games/dolphin-3.0-win32/Dolphin.exe</path>
+		<name>Dolphin</name>
+		<playcount>6</playcount>
+		<lastplayed>20220209T224341</lastplayed>
+	</game>
+	<game>
+		<path>./Heroes-of-Might-and-Magic-2-Gold.sh</path>
+		<name>Heroes of Might and Magic II Gold</name>
+		<desc>Lord Ironfist is dead and the Kingdom is plunged into a vicious civil war by his feuding sons. At stake is the ultimate prize: control of the land and succession of the royal throne. Will you support the villainous usurper and lead the armies of evil or be loyal to the righteous prince and deliver the people from tyranny.
+
+Chose your allegiance and take what is rightfully Yours!
+
+Includes Heroes of Might &amp; Magic II and its expansion The Price of Loyalty
+An excellent turn-based fantasy-themed strategy, considered by many to be the best of the series
+Incredibly good music and the atmosphere of war in a fantasy world</desc>
+		<image>./boxart/Heroes-of-Might-and-Magic-2-Gold.jpg</image>
+		<marquee>./marquee/Heroes-of-Might-and-Magic-2-Gold.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>New World Computing, Inc.</developer>
+		<publisher>3DO Company</publisher>
+		<genre>Strategy</genre>
+		<playcount>5</playcount>
+		<lastplayed>20220208T163609</lastplayed>
+	</game>
+	<game>
+		<path>./Heroes-of-Might-and-Magic-3.sh</path>
+		<name>Heroes of Might and Magic III</name>
+		<desc>Heroes of Might and Magic III is a turn-based strategic war game released in 1999, developed by Jon Van Caneghem through New World Computing. It is set up in a classical RPG environment and involves capturing and developing towns, gathering resources, assembling armies and sending them into combat. Each town has a theme and can only raise the type of creatures appropriate to that theme. The resources (gold, wood, ore, gems, crystal, mercury, and sulfur) can be found mostly in mines and are gathered once a day. They are used to build new buildings in your towns, to improve existing buildings, to buy armies, etc. Each army is led by a hero and consists of up to seven stacks of creatures raised in towns or recruited in countryside. The armies are sent into tactical combat, which can occur either in countryside or in towns. If the attacker captures the town, the winner can recruit the creatures raised in that town afterwards. Each game scenario (regular or campaign style) has its own objective which can vary from capturing a specific castle, defeating a specific hero or monster, gathering gold, or finding the Holy Grail.</desc>
+		<image>./boxart/Heroes-of-Might-and-Magic-3.jpg</image>
+		<marquee>./marquee/Heroes-of-Might-and-Magic-3.png</marquee>
+		<rating>0</rating>
+		<releasedate>19990228T000000</releasedate>
+		<developer>New World Computing, Inc.</developer>
+		<publisher>3DO</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<playcount>2</playcount>
+		<lastplayed>20220208T183322</lastplayed>
+	</game>
+	<game>
+		<path>./Heroes-of-Might-and-Magic-4.sh</path>
+		<name>Heroes of Might and Magic IV</name>
+		<desc>In the fourth chapter of the Heroes series, you play Emilia Nighthaven who arrives at Axeoth after the destruction of Erathia. She must battle the evil immortal King Gavin Magnus over six campaigns to rule all of Axeoth. The new game engine allows the hero to personally fight in combat. From eleven starting hero classes, your character can develop into 37 advanced classes, giving you many more options develop him or her. The graphics look even more spectacular, the music is wonderful, and depth of the game has been improved significantly. With over 60 creatures, five schools of magic, six town types, and over 180 artifacts, there is much to build and explore.</desc>
+		<image>./boxart/Heroes-of-Might-and-Magic-4.jpg</image>
+		<marquee>./marquee/Heroes-of-Might-and-Magic-4.png</marquee>
+		<rating>0</rating>
+		<releasedate>20020329T000000</releasedate>
+		<developer>New World Computing, Inc.</developer>
+		<publisher>3DO</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<playcount>4</playcount>
+		<lastplayed>20220209T161356</lastplayed>
+	</game>
+	<game>
+		<path>./Delta-Force-Xtreme.sh</path>
+		<name>Delta Force: Xtreme</name>
+		<desc>Bringing back one of the first military shooter sims with specially optimized graphics engine and new game content, Delta Force One: Next Gen overhauls the original with new weather effects, new missions and online features, 25 co-op missions, integration of the NovaWorld STATS ranking system, and over 20 multiplayer maps for 32-player online matches in five game types.</desc>
+		<image>./boxart//Delta-Force-Xtreme.jpg</image>
+		<marquee>./marquee/Delta-Force-Xtreme.png</marquee>
+		<rating>0</rating>
+		<releasedate>20050421T000000</releasedate>
+		<developer>NovaLogic, Inc.</developer>
+		<publisher>NovaLogic, Inc.</publisher>
+		<genre>Shooter</genre>
+		<playcount>9</playcount>
+		<lastplayed>20220209T160845</lastplayed>
 	</game>
 </gameList>
