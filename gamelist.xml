@@ -726,8 +726,8 @@ Incredibly good music and the atmosphere of war in a fantasy world</desc>
 		<path>./Angry-Birds.sh</path>
 		<name>Angry Birds</name>
 		<desc>Angry Birds is a strategy game similar to titles such as Crush the Castle where it is the player's job to help the angry birds retrieve their eggs that have been stolen by nasty green pigs. Throughout the 105 levels the player controls a catapult loaded with one of several different species of birds to crash them into the fortified buildings with the pigs inside. To complete a level, all pigs must have been smashed through either the birds directly or pieces of the collapsing building.</desc>
-		<image>./boxart/Angry-Birds-image.jpg</image>
-		<marquee>./marquee/Angry-Birds-image.png</marquee>
+		<image>./boxart/Angry-Birds.jpg</image>
+		<marquee>./marquee/Angry-Birds.png</marquee>
 		<rating>0</rating>
 		<releasedate>20091211T000000</releasedate>
 		<developer>Rovio Entertainment Ltd.</developer>
