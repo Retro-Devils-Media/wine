@@ -19,12 +19,6 @@
 		<lastplayed>20220209T161929</lastplayed>
 	</game>
 	<game>
-		<path>./wine-apps/Wine Explorer.sh</path>
-		<name>Wine Explorer</name>
-		<playcount>96</playcount>
-		<lastplayed>20220210T012031</lastplayed>
-	</game>
-	<game>
 		<path>./Starcraft.sh</path>
 		<name>StarCraft: Battle Chest</name>
 		<desc>Set in the 26th century, the game revolves around three species fighting for dominance in a distant part of the Milky Way galaxy: the Terrans, humans exiled from Earth skilled at adapting to any situation; the Zerg, a race of insectoids in pursuit of genetic perfection obsessed with assimilating other races; and the Protoss, a humanoid species with advanced technology and psionic abilities attempting to preserve their civilization and strict philosophical way of living from the Zerg.
@@ -365,7 +359,7 @@ The Simpsons Hit &amp; Run promises a hilarious mission based driving game with 
 		<path>./Angry-Birds-Seasons.sh</path>
 		<name>Angry-Birds-Seasons</name>
 		<image>./boxart/Angry-Birds-Seasons.png</image>
-              <marquee>./marquee/Angry-Birds-Seasons.png</marquee>
+		<marquee>./marquee/Angry-Birds-Seasons.png</marquee>
 		<playcount>1</playcount>
 		<lastplayed>20220203T191728</lastplayed>
 	</game>
@@ -604,7 +598,7 @@ Here is the list of new remixes and original tracks for v5.2
 		<name>Command &amp; Conquer: Generals – Zero Hour</name>
 		<desc>Zero Hour also contains 3 new campaigns of five missions each, one for each side, with their chronological order being USA first, GLA second, and China last. Unlike the previous campaigns, which were noted by Command and Conquer fans for not having full motion video cinematic sequences during mission briefing, the Zero Hour campaigns return to that Command and Conquer tradition, each showing a live-action video of a news reporter of the respective side giving details about the situation behind the current mission. The plot behind the Zero Hour campaigns picks up where it left off at the end of the previous campaigns.</desc>
 		<image>./boxart/Command-And-Conquer-Generals-ZH.jpg</image>
-              <marquee>./marquee/Command-And-Conquer-Generals-ZH.png</marquee>
+		<marquee>./marquee/Command-And-Conquer-Generals-ZH.png</marquee>
 		<rating>0</rating>
 		<releasedate>20030922T000000</releasedate>
 		<developer>EA</developer>
@@ -624,8 +618,7 @@ Here is the list of new remixes and original tracks for v5.2
 		<name>Command &amp; Conquer: Generals</name>
 		<desc>Generals takes place in the near future, with players given a choice of three factions to play. In Generals, the United States and China are the world's two superpowers, and are the targets of the Global Liberation Army or also known as the GLA, a large, well-organized terrorist organization, fighting as a fanatical irregular force. The United States and China are depicted as allies in the series, and frequently co-operate with each other throughout the storyline against the Global Liberation Army, which is depicted as an omnipresent, borderless organization with unclear goals beyond opposition to and expulsion of both China and the United States. The three factions are thus engaged in a war similar to that of the real-life War on Terror.</desc>
 		<image>./boxart/Command-And-Conquer-Generals.jpg</image>
-              <marquee>./marquee/Command-And-Conquer-Generals.png</marquee>
-
+		<marquee>./marquee/Command-And-Conquer-Generals.png</marquee>
 		<rating>0</rating>
 		<releasedate>20030210T000000</releasedate>
 		<developer>EA</developer>
@@ -722,5 +715,33 @@ Incredibly good music and the atmosphere of war in a fantasy world</desc>
 		<genre>Shooter</genre>
 		<playcount>9</playcount>
 		<lastplayed>20220209T160845</lastplayed>
+	</game>
+	<game>
+		<path>./wine-apps/Wine Explorer.sh</path>
+		<name>Wine Explorer</name>
+		<playcount>97</playcount>
+		<lastplayed>20220210T204849</lastplayed>
+	</game>
+	<game>
+		<path>./Angry-Birds.sh</path>
+		<name>Angry Birds</name>
+		<desc>Angry Birds is a strategy game similar to titles such as Crush the Castle where it is the player's job to help the angry birds retrieve their eggs that have been stolen by nasty green pigs. Throughout the 105 levels the player controls a catapult loaded with one of several different species of birds to crash them into the fortified buildings with the pigs inside. To complete a level, all pigs must have been smashed through either the birds directly or pieces of the collapsing building.</desc>
+		<image>./boxart/Angry-Birds-image.jpg</image>
+		<marquee>./marquee/Angry-Birds-image.png</marquee>
+		<rating>0</rating>
+		<releasedate>20091211T000000</releasedate>
+		<developer>Rovio Entertainment Ltd.</developer>
+		<publisher>ClickGamer</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Angry-Birds-Star-Wars-2.sh</path>
+		<name>Angry Birds Star Wars II</name>
+		<desc>Angry Birds Star Wars II is a puzzle video game, a crossover between Star Wars and the Angry Birds series, that was released on September 18, 2013.[1] The game is the seventh Angry Birds game developed by Rovio Entertainment. The game is a sequel to Angry Birds Star Wars and is based on the Star Wars prequel trilogy, as well as the television show Star Wars Rebels.[2]</desc>
+		<image>./boxart/Angry-Birds-Star-Wars-2.png</image>
+		<marquee>./marquee/Angry-Birds-Star-Wars-2.png</marquee>
+		<rating>0</rating>
+		<releasedate>20130918T000000</releasedate>
+		<genre>Puzzle</genre>
 	</game>
 </gameList>
